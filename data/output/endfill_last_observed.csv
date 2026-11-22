@@ -1,0 +1,45 @@
+indicator,indicator_name,dpsir_class,used,global_last_obs,median_last_obs,min_last_obs,n_countries,n_cells_window,n_end_filled,share_end_filled,share_2021_2024_end_filled,max_tail_years
+37,PM2.5 levels,Pressure,Y,2019,2019,2019,267,1820,650,0.35714285714285715,1,5
+14,Trade of environmentally sound technologies,Process,Y,2020,2020,2011,209,1792,563,0.31417410714285715,1,11
+18,Extent of natural ecosystems,State,Y,2020,2020,2020,208,1820,520,0.2857142857142857,1,4
+22,Forest with long-term management plan,Response,Y,2020,2020,2015,159,1484,461,0.3106469002695418,1,14
+23,Forest within legally protected areas,Response,Y,2020,2020,2015,191,1666,514,0.3085234093637455,1,14
+27,RLI (food and medicines species),State,Y,2020,2020,2020,22,NA,NA,NA,NA,NA
+28,RLI (internationally traded species),State,Y,2020,2020,2020,22,NA,NA,NA,NA,NA
+29,RLI (invasive alien species impacts),State,Y,2020,2020,2020,22,NA,NA,NA,NA,NA
+34,Above-ground biomass in forests,State,Y,2020,2020,2020,243,1778,508,0.2857142857142857,1,4
+39,Green areas in cities,State,Y,2020,2020,2020,142,1568,448,0.2857142857142857,1,4
+7,Ecological footprint (gha per person),Pressure,Y,2022,2022,2011,226,1820,260,0.14285714285714285,0.5,2
+8,Level of water stress,Pressure,Y,2022,2022,2022,187,1806,258,0.14285714285714285,0.5,2
+30,IAS legislation/regulation,Response,Y,2022,2022,2022,195,1806,258,0.14285714285714285,0.5,2
+31,Coastal eutrophication potential,Pressure,Y,2022,2022,2021,199,1484,213,0.14353099730458221,0.5023584905660378,3
+32,Cropland nutrient budget (NUE),Pressure,Y,2022,2022,2022,229,1820,260,0.14285714285714285,0.5,2
+44,CO2 emissions per unit of GDP,Pressure,Y,2022,2022,2022,188,1736,248,0.14285714285714285,0.5,2
+45,Water use efficiency,Pressure,Y,2022,2022,2022,196,1806,258,0.14285714285714285,0.5,2
+13,Official flows for scholarships/training,Process,Y,2023,2023,2012,181,1288,156,0.12111801242236025,0.29891304347826086,14
+15,ODA for biodiversity,Process,Y,2023,2023,2013,181,1316,184,0.1398176291793313,0.31382978723404253,14
+16,Transboundary basins with arrangements,Response,Y,2023,2023,2020,119,1400,109,0.07785714285714286,0.2725,4
+36,Forest area certified (independent),Response,Y,2023,2023,2023,237,1820,130,0.07142857142857142,0.25,1
+41,Companies publishing sustainability reports,Process,Y,2023,2023,2022,112,1008,74,0.07341269841269842,0.2569444444444444,2
+48,Researchers in R&D per million,Process,Y,2023,2022,2012,149,1610,461,0.28633540372670807,0.6260869565217392,14
+1,Red List Index,State,Y,2024,2024,2024,268,1820,0,0,0,0
+2,Biodiversity Intactness Index,State,Y,2024,2024,2024,202,1820,0,0,0,0
+3,Ocean Health Index,State,Y,2024,2024,2024,221,1470,0,0,0,0
+4,Protected Connected (ProtConn) index,Response,Y,2024,2024,2021,237,1820,0,0,0,0
+5,Number of local breeds kept,State,Y,2024,2024,2024,175,1512,0,0,0,0
+6,Proportion of local breeds at risk,State,Y,2024,2024,2011,151,1652,433,0.26210653753026636,0.3135593220338983,14
+11,Standard Material Transfer Agreements reported,Process,Y,2024,2024,2024,291,1820,0,0,0,0
+19,Marine KBAs protected,Response,Y,2024,2024,2024,211,1820,0,0,0,0
+20,Freshwater KBAs protected,Response,Y,2024,2024,2024,186,1820,0,0,0,0
+21,Terrestrial KBAs protected,Response,Y,2024,2024,2024,263,1820,0,0,0,0
+24,Mountain KBAs protected,Response,Y,2024,2024,2024,206,1820,0,0,0,0
+26,Implementation of international instruments,Response,Y,2024,2024,2018,176,1498,86,0.05740987983978638,0.16822429906542055,6
+35,Local governments adopting plans,Response,Y,2024,2021,2015,122,1302,262,0.2012288786482335,0.6048387096774194,9
+38,Safely managed sanitation,Response,Y,2024,2024,2017,194,1456,3,0.0020604395604395605,0.007211538461538462,3
+40,Biodiversity in national planning (SEEA),Response,Y,2024,2024,2024,193,1820,0,0,0,0
+42,Material footprint per capita,Pressure,Y,2024,2024,2024,169,1750,0,0,0,0
+46,Biosafety Clearing-House records (author-constructed),Process,Y,2024,2024,2024,59,756,0,0,0,0
+47,Fossil-fuel subsidies,Response,Y,2024,2023,2014,201,1708,253,0.1481264637002342,0.430327868852459,14
+49,GBIF species occurrence records,Process,Y,2024,2024,2019,250,1820,0,0,0,0
+50,Youth NEET rate,State,Y,2024,2023,2012,216,1764,307,0.17403628117913833,0.4444444444444444,14
+53,Seats held by women in parliament,Response,Y,2024,2024,2011,239,1820,8,0.004395604395604396,0.013461538461538462,5

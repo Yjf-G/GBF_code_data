@@ -1,0 +1,1945 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,year,value
+World,0,0,0,0,0,0,0,0,0,0,global,2000,115.88
+World,0,0,0,0,0,0,0,0,0,0,global,2010,116.68
+World,0,0,0,0,0,0,0,0,0,0,global,2015,117.72
+World,0,0,0,0,0,0,0,0,0,0,global,2016,117.9
+World,0,0,0,0,0,0,0,0,0,0,global,2017,117.98
+World,0,0,0,0,0,0,0,0,0,0,global,2018,118.12
+World,0,0,0,0,0,0,0,0,0,0,global,2019,118.21
+World,0,0,0,0,0,0,0,0,0,0,global,2020,118.28
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2000,129.47
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2010,129.86
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2015,129.88
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2016,129.97
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2017,129.77
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2018,129.81
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2019,129.85
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,2020,129.88
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2000,184.16
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2010,187.35
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2015,188.72
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2016,188.89
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2017,189.11
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2018,189.29
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2019,189.45
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2020,189.61
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2000,115.68
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2010,117.18
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2015,115.64
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2016,115.06
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2017,114.91
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2018,114.76
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2019,114.84
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,2020,114.61
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2000,103.98
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2010,101.86
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2015,100.84
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2016,100.98
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2017,101.17
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2018,101.1
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2019,101.03
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2020,100.96
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,29.16
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,29.38
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,29.51
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,29.41
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,29.38
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,29.18
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,29.37
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,29.39
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2000,69.13
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2010,72.86
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2015,72.79
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2016,72.78
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2017,72.76
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2018,72.75
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2019,72.74
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,2020,72.73
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2000,82.73
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2010,82.43
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2015,82.55
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2016,82.63
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2017,81.78
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2018,81.85
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2019,81.89
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2020,81.94
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2000,50.79
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2010,50.87
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2015,50.4
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2016,50.69
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2017,50.61
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2018,50.56
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2019,50.54
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,2020,50.5
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,125.13
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,137.85
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,143.91
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,145.33
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,146.75
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,148.18
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,149.35
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,150.79
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2000,178.01
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2010,179.49
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2015,180
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2016,180.1
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2017,180.21
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2018,180.31
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2019,180.42
+Middle Africa,Africa,Middle Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2020,180.52
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2000,109.96
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2010,109.67
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2015,109.52
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2016,109.48
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2017,109.45
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2018,109.42
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2019,109.38
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2020,109.35
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2000,140.78
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2010,141.46
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2015,142.22
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2016,142.37
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2017,142.54
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2018,142.71
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2019,142.74
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,2020,142.78
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,154
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,154
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2000,90.09
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2010,90.5
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2015,91.5
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2016,91.82
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2017,92.13
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2018,92.43
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2019,92.43
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,2020,92.43
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,30.3
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,30.3
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,210
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,210
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,102.8
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,104.07
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,104.35
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,104.48
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,104.54
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,104.56
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,104.59
+Caribbean,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,104.61
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2000,58.61
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2010,61.79
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2015,66.59
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2016,67.52
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2017,68.26
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2018,68.9
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2019,69.53
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,2020,70.14
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,177.07
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,182.12
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,184.34
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,184.59
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,184.88
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,185.17
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,185.45
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,185.74
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2000,89.58
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2010,88.25
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2015,88.8
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2016,88.74
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2017,88.69
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2018,88.63
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2019,88.57
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,2020,88.52
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2000,155.78
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2010,154.28
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2015,155.59
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2016,155.45
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2017,155.44
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2018,155.39
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2019,155.34
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,2020,155.3
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2000,85.56
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2010,86.36
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2015,84.56
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2016,83.96
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2017,83.97
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2018,83.98
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2019,83.98
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2020,83.98
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2000,78.31
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2010,84.09
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2015,86.03
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2016,86.65
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2017,86.77
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2018,86.8
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2019,86.9
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,2020,86.99
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,157.4
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,164.5
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,168.4
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,169.1
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,169.9
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,170.7
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,171.5
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,172.3
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,39.8
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,39.8
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2000,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2010,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2015,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2016,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2017,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2018,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2019,62.82
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2020,62.82
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2000,81.38
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2010,80.06
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2015,80.72
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2016,80.72
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2017,80.72
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2018,80.72
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2019,80.72
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,2020,80.72
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2000,98.97
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2010,100.7
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2015,98.95
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2016,98.34
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2017,98.38
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2018,98.44
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2019,98.47
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,2020,98.46
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2000,172.89
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2010,172.74
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2015,173.55
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2016,173.47
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2017,172.65
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2018,171.79
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2019,172.13
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,2020,171.12
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,148.48
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,164.54
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,172.3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,172.3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,172.3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,172.3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,172.3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,172.3
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2000,383.41
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2010,383.91
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2015,381.37
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2016,375.76
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2017,375.81
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2018,375.86
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2019,375.91
+Micronesia,Oceania,Micronesia,0,0,0,0,0,0,0,0,0,2020,375.96
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2000,127.56
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2010,128.44
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2015,128.84
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2016,128.94
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2017,129.03
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2018,129.12
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2019,129.2
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,2020,129.3
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2000,84.02
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2010,83.25
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2015,83.71
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2016,83.64
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2017,83.58
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2018,83.57
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2019,83.5
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,2020,83.44
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2000,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2010,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2015,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2016,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2017,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2018,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2019,269.32
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2020,269.32
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2000,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2010,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2015,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2016,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2017,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2018,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2019,131.26
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2020,131.26
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,156.36
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,156.36
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2000,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2010,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2015,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2016,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2017,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2018,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2019,155.25
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2020,155.25
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,166.3
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,169.44
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,171.08
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,171.26
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,171.44
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,171.63
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,171.78
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,171.92
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2000,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2010,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2015,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2016,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2017,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2018,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2019,211
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2020,211
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2000,124.73
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2010,121.88
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2015,134.69
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2016,133.39
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2017,120.32
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2018,106.57
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2019,111.99
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2020,95.78
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2000,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2010,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2015,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2016,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2017,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2018,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2019,210
+British Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2020,210
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,247
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,247
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,139.9
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,157.63
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,161.84
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,165.25
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,169.14
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,172.87
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,176.68
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,180.5
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2000,127.38
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2010,126.26
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2015,125.77
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2016,125.7
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2017,125.63
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2018,125.6
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2019,125.57
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2020,125.54
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,114.03
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,114.03
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,119.38
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,119.38
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,119.38
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,119.38
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,119.38
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,119.38
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,114.6
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,135.8
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,146.8
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,148.8
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,150.8
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,152.3
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,154.6
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,156.1
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2000,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2010,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2015,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2016,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2017,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2018,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2019,69.3
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2020,69.3
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,265.05
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,265.05
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2000,94.64
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2010,91.16
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2015,90.49
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2016,90.43
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2017,90.43
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2018,90.43
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2019,90.43
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2020,90.43
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2000,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2010,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2015,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2016,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2017,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2019,95
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2020,95
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,217.09
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,217.09
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2000,99.72
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2010,98.4
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2015,99.86
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2016,100.16
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2017,100.18
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2018,100.23
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2019,100.26
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,2020,100.3
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2000,38.27
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2010,42.13
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2015,42.89
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2016,42.89
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2017,42.86
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2018,43.38
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2019,43.36
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,2020,43.34
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2000,79.23
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2010,79.3
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2015,79.17
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2016,79.17
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2017,79.16
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,79.16
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2019,79.16
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2020,79.16
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2000,45.65
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2010,49.58
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2015,52.57
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2016,54.44
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2017,54.41
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2018,54.37
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2019,54.33
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,2020,54.29
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,91.4
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,91.34
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,91.29
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,91.27
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,91.28
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,91.27
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,91.25
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,91.23
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2000,74.19
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2010,79.15
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2015,82.25
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2016,82.74
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2017,83.13
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2018,83.5
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2019,83.88
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,2020,84.27
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2000,72.49
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2010,77.06
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2015,79.99
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2016,80.44
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2017,80.81
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2018,81.16
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2019,81.53
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,2020,81.89
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2000,221.86
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2010,219.75
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2015,219.42
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2016,219.47
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2017,219.42
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2018,219.37
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2019,219.32
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2020,219.27
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2000,64.09
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2010,69.63
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2015,73.83
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2016,74.19
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2017,74.55
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2018,74.89
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2019,75.24
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,2020,75.58
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2000,136.2
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2010,146.15
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2015,152.04
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2016,153.26
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2017,154.44
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2018,155.58
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2019,156.71
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,2020,157.9
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,54.54
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,55.72
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,60.75
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,61.76
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,62.52
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,63.26
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,64
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,64.72
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2000,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2010,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2015,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2016,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2017,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2018,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2019,184.13
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2020,184.13
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2000,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2010,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2015,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2016,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2017,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2018,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2019,66
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2020,66
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,198.8
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,198.8
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,231
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,231
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2000,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2010,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2015,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2016,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2017,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2018,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2019,196
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2020,196
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,169.55
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,168.6
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,170.53
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,171.84
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,172.2
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,172.75
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,173.38
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,174.01
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,116.32
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,113.04
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,113.42
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,113.51
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,113.59
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,113.59
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,113.59
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,113.59
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,27.73
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,34.44
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,38.64
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,39.3
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,39.94
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,40.62
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,41.26
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,41.93
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2000,119.98
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2010,120.17
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2015,120.26
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2016,120.24
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2017,120.18
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2018,120.12
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2019,120.14
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,2020,120.07
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2000,133.04
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2010,133.48
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2015,133.52
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2016,133.61
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2017,133.4
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2018,133.44
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2019,133.49
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,2020,133.54
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,145.14
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,156.19
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,158.7
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,159.4
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,160.1
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,161.49
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,162.36
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,163.23
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,103.56
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,103.56
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,100.47
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,106.86
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,112.15
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,112.38
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,112.58
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,112.76
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,112.93
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,113.1
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,82.7
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,82.7
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,177.02
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,177.02
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2000,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2010,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2015,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2016,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2017,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2019,113.61
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2020,113.61
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,214.5
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,214.5
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,124.11
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,122.86
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,122.1
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,121.94
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,121.79
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,121.63
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,121.47
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,121.31
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,71.92
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,72.12
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,72.38
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,72.4
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,72.44
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,72.43
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,72.46
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,72.52
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,109.47
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,111.64
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,116.14
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,116.32
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,115.87
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,115.87
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,115.87
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,115.87
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2000,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2010,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2015,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2016,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2017,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2018,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2019,0
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2020,0
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,204.73
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,203.7
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,203.23
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,203.14
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,203.05
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,202.96
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,202.88
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,202.79
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,49.14
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,53.64
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,59.77
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,59.77
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,59.77
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,59.77
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,59.77
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,59.77
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,112.3
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,124
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,129.6
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,130.9
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,132.1
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,133.2
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,134.3
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,135.5
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2000,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2010,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2015,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2016,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2017,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2018,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2019,365
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,2020,365
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,148.94
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,148.92
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,148.92
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,89.6
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,89.6
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,89.6
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,89.6
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,89.44
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,88.96
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,88.03
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,86.51
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,223.25
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,223.25
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,116.5
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,119.34
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,119.34
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,41.8
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,41.8
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,158.17
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,169.02
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,177.01
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,178.63
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,180.26
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,181.89
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,183.52
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,185.14
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,113.58
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,98.51
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,90.32
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,93.33
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,96.29
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,96.41
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,96.53
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,96.64
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2000,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2010,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2015,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2016,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2017,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2018,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2019,0
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2020,0
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,34.11
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,34.24
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,34.24
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,109.4
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,109.4
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,347
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,347
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,116.67
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,116.67
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,112
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,112
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,112
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,112
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,112
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,112
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2000,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2010,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2015,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2016,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2017,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2019,124.05
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2020,124.05
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,131.29
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,131.24
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,131.22
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,131.22
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,131.21
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,131.2
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,131.2
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,131.19
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2000,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2010,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2015,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2016,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2017,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2018,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2019,498.96
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2020,498.96
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2000,95.11
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2010,94.79
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2015,94.59
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2016,94.57
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2017,94.56
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2018,94.55
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2019,94.54
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,2020,94.53
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2000,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2010,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2015,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2016,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2017,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2018,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2019,0
+Holy See,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2020,0
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2000,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2010,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2015,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2016,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2017,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2019,105.72
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2020,105.72
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,99.42
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,100.85
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,104.92
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,105.98
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,107.06
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,107.75
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,108.62
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,109.49
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,14.19
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,15.63
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,19.86
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,20.72
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,21.46
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,22.21
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,22.94
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,23.66
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2000,69.78
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2010,67.61
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2015,68.7
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2016,68.7
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2017,68.7
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,68.7
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2019,68.7
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2020,68.7
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,178.33
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,179.01
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,178.95
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,178.89
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,178.95
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,178.95
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,178.95
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,178.95
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2000,137.17
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2010,138.44
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2015,138.44
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2016,138.31
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2017,138.2
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,137.99
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2019,137.78
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2020,137.67
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,52.88
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,52.69
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,52.46
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,52.21
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,51.96
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,51.69
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,51.41
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,51.11
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,89.19
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,98.21
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,103.91
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,105.55
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,105.9
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,107.47
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,109.74
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,111.64
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2000,7.3
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2010,7.5
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2015,7.69
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2016,7.69
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2017,7.69
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2018,7.69
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2019,7.69
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2020,7.69
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,95.2
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,105.3
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,110.6
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,110.6
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,110.6
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,110.6
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,110.6
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,110.6
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,94.45
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,94.45
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,156.97
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,168.85
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,163.46
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,162.44
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,161.41
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,160.43
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,159.46
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,158.5
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2000,89
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2010,105
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2015,111
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2016,112
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2017,113
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2018,113
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2019,113
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2020,113
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2000,78.94
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2010,83.06
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2015,84.08
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2016,83.34
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2017,82.62
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2018,83.89
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2019,83.17
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2020,82.47
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,56.9
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,56.9
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,200.39
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,200.38
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,200.38
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,61.34
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,62.32
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,62.31
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,62.31
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,62.31
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,62.3
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,62.3
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,62.3
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2000,58.68
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2010,98.4
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2015,115.7
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2016,119.04
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2017,122.31
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2018,125.51
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2019,128.63
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,2020,131.69
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2000,44.93
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2010,46.02
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2015,46.49
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2016,47.25
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2017,47.89
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2018,48.42
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2019,49.04
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2020,49.66
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2000,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2010,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2015,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2016,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2017,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2018,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2019,121.5
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,2020,121.5
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2000,173.03
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2010,175.99
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2015,177.16
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2016,177.31
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2017,177.49
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2018,177.66
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2019,177.81
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,2020,177.95
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,61.16
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,61.27
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,61.26
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,61.27
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,61.27
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,61.27
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,61.27
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,61.27
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,73.72
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,73.72
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,107.7
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,123.34
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,125.73
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,126.23
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,126.7
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,127.18
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,127.65
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,128.13
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,205.4
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,205.4
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2000,104.49
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2010,104.36
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2015,104.47
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2016,104.43
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2017,103.78
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2018,103.8
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2019,103.8
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,2020,103.79
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,49.26
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,49.26
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,263.7
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,242.41
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,242.41
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,117.4
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,118.9
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,129.4
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,130.6
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,131.2
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,132.1
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,132.9
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,133.9
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,146.36
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,166.46
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,173.08
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,172.84
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,174.7
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,176.52
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,178.35
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,180.7
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,163.2
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,163.2
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,78.7
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,78.7
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,205.12
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,196.29
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,209.9
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,209.86
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,209.86
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,209.86
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,209.87
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,209.87
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2000,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2010,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2015,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2016,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2017,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2018,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2019,135
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,2020,135
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,46.36
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,46.36
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,306
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,306
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,39.92
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,41.35
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,42.25
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,52.51
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,52.65
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,52.8
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,52.95
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,53.11
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2000,123.16
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2010,124.21
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2015,124.2
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2016,124.2
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2017,124.19
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,124.19
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2019,124.19
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2020,124.18
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2000,46.69
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2010,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2015,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2016,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2017,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2018,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2019,52.44
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2020,52.44
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,0
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,0
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2000,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2010,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2015,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2016,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2017,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2018,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2019,54.9
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,2020,54.9
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2000,88.61
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2010,93.37
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2015,93.37
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2016,93.36
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2017,93.36
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2018,93.36
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2019,93.63
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2020,93.36
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,96.87
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,96.87
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,37.07
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,39.23
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,39.63
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,39.65
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,39.72
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,39.77
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,39.83
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,39.89
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,101.36
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,101.37
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,101.37
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,104.14
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,104.14
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,104.14
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,105.4
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,106.1
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,106.85
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,107.67
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,107.67
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2000,80.46
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2010,83.61
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2015,85.89
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2016,86.31
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2017,86.66
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2018,87
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2019,87.24
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,2020,87.47
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,67.4
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,67.4
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,0
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,0
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2000,184.05
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2010,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2015,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2016,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2017,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2018,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2019,176.82
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,2020,176.82
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,40
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,48
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,52.65
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,53.14
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,53.63
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,54.13
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,54.63
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,55.13
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,79
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,79
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,146
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,146
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2000,173.18
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2010,173.05
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2015,173.86
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2016,173.77
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2017,172.97
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2018,172.13
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2019,172.46
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,2020,171.47
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2000,278.38
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2010,289.32
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2015,293.4
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2016,294.15
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2017,294.49
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2018,295.02
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2019,295.23
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2020,294.65
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2000,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2010,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2015,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2016,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2017,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2019,91.02
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2020,91.02
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,39.54
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,38.93
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,38.59
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,38.51
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,38.44
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,38.36
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,38.28
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,38.2
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,134.77
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,134.77
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,112.05
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,112.05
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,48.45
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,57.17
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,60.68
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,61.38
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,62.07
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,62.77
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,63.46
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,64.16
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,500.31
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,500.39
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,500.39
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,132.13
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,132.13
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,416.21
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,416.21
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2000,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2010,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2015,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2016,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2017,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2019,75.3
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2020,75.3
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2000,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2010,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2015,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2016,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2017,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2019,145.1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2020,145.1
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,176
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,176
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2000,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2010,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2015,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2016,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2017,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2018,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2019,69.86
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,2020,69.86
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,237.79
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,237.79
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,219.24
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,232.64
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,226.05
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,224.77
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,223.5
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,222.25
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,221
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,219.77
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,107
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,146
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,155
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,157
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,159
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,162
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,164
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,166
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,41.03
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,41.03
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,40.91
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,40.91
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,40.91
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,40.91
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,40.91
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,40.91
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2000,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2010,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2015,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2016,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2017,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2018,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2019,84
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2020,84
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2000,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2010,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2015,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2016,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2017,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2018,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2019,150
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2020,150
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2000,57.44
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2010,73.16
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2015,74.39
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2016,75.62
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2017,76.85
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2018,78.09
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2019,79.32
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2020,80.55
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,0
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,0
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2000,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2010,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2015,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2016,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2017,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2018,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2019,125
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,2020,125
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,107
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,107
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,200.12
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,207.5
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,207.5
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,207.5
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,207.5
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,207.5
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,70.16
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,73.89
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,75.82
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,76.13
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,76.44
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,76.73
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,77.03
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,77.33
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,143.04
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,145.45
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,145.76
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,145.86
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,145.91
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,145.96
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,146.01
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,146.06
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,124.5
+Saint Barthelemy,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,124.5
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,210
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2000,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2010,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2015,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2016,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2017,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2018,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2019,210
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2020,210
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,229.52
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,260.85
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,277.43
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,280.75
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,284.06
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,287.38
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,290.7
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,294.02
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,124.5
+Saint Martin (French Part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,124.5
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2000,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2010,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2015,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2016,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2017,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2018,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2019,26.25
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,2020,26.25
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,219.13
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,219.13
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,76.71
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,86.45
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,90.99
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,90.99
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,90.99
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,90.99
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,90.99
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,90.99
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2000,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2010,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2015,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2016,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2017,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2018,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2019,162.5
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2020,162.5
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,26.61
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,26.61
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,45.75
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,44.47
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,44.34
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,44.33
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,44.31
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,44.29
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,44.27
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,44.25
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,103.05
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,154.8
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,156.89
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,156.94
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,156.6
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,156.74
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,156.87
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,156.99
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2000,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2010,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2015,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2016,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2017,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2019,172.81
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2020,172.81
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,82
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,82
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2000,106.33
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2010,116.71
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2015,133.06
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2016,135.71
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2017,135.71
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2018,135.71
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2019,135.71
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,2020,135.71
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,142.11
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,161.2
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,170.15
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,171.12
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,171.11
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,171.11
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,171.11
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,171.11
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,73.95
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,60.79
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,62.46
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,62.06
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,62.97
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,62.88
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,62.63
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,62.71
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,204.23
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,246.35
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,251.43
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,251.48
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,251.65
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,250.65
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,252.03
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,253.1
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,102.5
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,102.49
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,102.49
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2000,85.3
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2010,85.48
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2015,85.57
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2016,85.59
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2017,85.6
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,85.62
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2019,85.64
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2020,85.66
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2000,105.06
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2010,105
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2015,104.92
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2016,105.12
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2017,95.01
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2018,95
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2019,94.99
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2020,94.98
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2000,269.13
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2010,268
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2015,267.93
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2016,267.8
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2017,267.43
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2018,267.04
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2019,267.21
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,2020,266.74
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,53.49
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,53.49
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,54.4
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,55.68
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,55.85
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,55.86
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,55.87
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,55.87
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2000,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2010,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2015,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2016,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2017,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2018,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2019,55.98
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2020,55.98
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2000,37.07
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2010,39.23
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2015,39.63
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2016,39.65
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2017,39.72
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2018,39.77
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2019,39.83
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,2020,39.89
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2000,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2010,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2015,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2016,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2017,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2018,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2019,362.88
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2020,362.88
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2000,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2010,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2015,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2016,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2017,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2018,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2019,0
+Svalbard and Jan Mayen Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,2020,0
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2000,48.38
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2010,50.24
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2015,51.49
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2016,52.57
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2017,52.53
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2018,52.49
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2019,52.47
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,2020,52.45
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2000,77.4
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2010,76.71
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2015,76.37
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2016,76.31
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2017,76.24
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2018,76.18
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2019,76.11
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2020,76.05
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,66.42
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,68.74
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,70.96
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,71.26
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,71.56
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,71.86
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,72.17
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,72.47
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2000,106.6
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2010,104.78
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2015,106.46
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2016,106.73
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2017,106.8
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2018,106.88
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2019,106.96
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,2020,107.04
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,185.6
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,189.33
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,191.2
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,191.57
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,191.94
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,192.31
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,192.69
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,193.06
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,49.99
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,49.99
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,50.04
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,50.04
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,50.03
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,50.01
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,50
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,49.98
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2000,141.83
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2010,142.35
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2015,142.56
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2016,142.55
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2017,142.54
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,142.53
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2019,142.51
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2020,142.5
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,121.87
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,121.31
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,121.03
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,120.95
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,120.91
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,120.86
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,121.01
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,120.95
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2000,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2010,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2015,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2016,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2017,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2018,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2019,0
+Tokelau,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2020,0
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2000,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2010,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2015,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2016,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2017,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2019,194.44
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2020,194.44
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2000,91.93
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2010,90.89
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2015,90.62
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2016,90.53
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2017,90.44
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,90.35
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2019,90.26
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2020,90.17
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,74.35
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,74.31
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,74.43
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,74.43
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,74.43
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,74.43
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,74.43
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,74.43
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,53.39
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,62.73
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,48.89
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,62.55
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,60.09
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,59.06
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,58.93
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,58.74
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2000,36.58
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2010,41.57
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2015,45.7
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2016,48.11
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2017,48.11
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2018,48.11
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2019,48.11
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2020,48.11
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2000,4.09
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2010,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2015,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2016,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2017,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2018,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2019,4.24
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2020,4.24
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2000,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2010,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2015,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2016,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2017,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2018,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2019,132.26
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,2020,132.26
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,96
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,96
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2000,114
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2010,131
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2015,135
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2016,137
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2017,138
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,138
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2019,139
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2020,140
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2000,76.95
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2010,74.33
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2015,72.09
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2016,71.63
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2017,71.64
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2018,71.64
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2019,71.64
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2020,71.64
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2000,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2010,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2015,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2016,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2017,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2019,120
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2020,120
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2000,89
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2010,104
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2015,109
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2016,110
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,112
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,113
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,114
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2020,115
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2000,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2010,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2015,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2016,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2017,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2019,48.58
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2020,48.58
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2000,84.88
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2010,89.76
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2015,92.63
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2016,93.38
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2017,94.04
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2018,94.67
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2019,94.67
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2020,94.67
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2000,27.01
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2010,40.13
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2015,42.19
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2016,44.25
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2017,46.32
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2018,48.38
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2019,50.44
+United States Virgin Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2020,52.5
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,59.27
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,53.98
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,52.21
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,50.38
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,49.75
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,49.11
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,48.45
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,47.79
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,95
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,102
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,101
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,100
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,100
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,99
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,98
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,97
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2000,39.89
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2010,49.74
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2015,48.18
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2016,48.18
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2017,48.18
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2018,48.18
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2019,48.18
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2020,48.18
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2000,207.74
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2010,206.52
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2015,204.8
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2016,204.77
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2017,204.75
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,204.74
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2019,204.72
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2020,204.72
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2000,196.17
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2010,193.93
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2015,192.6
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2016,192.6
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2017,192.6
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2018,192.6
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2019,192.6
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2020,192.6
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2000,105.15
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2010,105.09
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2015,105.05
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2016,105.04
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2017,105.03
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2018,105.02
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2019,105.01
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2020,105
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2000,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2010,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2015,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2016,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2017,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2018,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2019,13.99
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2020,13.99
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2000,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2010,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2015,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2016,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2017,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2018,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2019,44
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2020,44

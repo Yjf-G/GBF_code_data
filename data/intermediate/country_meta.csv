@@ -1,0 +1,289 @@
+country,iso3,continent,subcontinent,region,group1,group2,is_nation,development,sids,ldc,llc,oecd,eu
+world,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Africa,NA,Africa,NA,NA,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Eastern Africa,NA,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Middle Africa,NA,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Northern Africa,NA,Africa,Northern Africa,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Southern Africa,NA,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Western Africa,NA,Africa,Western Africa,Sub-Saharan Africa,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Sub-Saharan Africa,NA,Africa,NA,Sub-Saharan Africa,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Americas,NA,Americas,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Latin America and the Caribbean,NA,Americas,Latin America and the Caribbean,NA,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Caribbean,NA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Central America,NA,Americas,Latin America and the Caribbean,Central America,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+South America,NA,Americas,Latin America and the Caribbean,South America,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Northern America,NA,Americas,Northern America,NA,NA,NA,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Asia,NA,Asia,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Central Asia,NA,Asia,Central Asia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Eastern Asia,NA,Asia,Eastern Asia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Southern Asia,NA,Asia,Southern Asia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+South-Eastern Asia,NA,Asia,South-Eastern Asia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Western Asia,NA,Asia,Western Asia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+central and southern asia,NA,Asia,NA,central and southern asia,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+eastern and south-eastern asia,NA,Asia,NA,eastern and south-eastern asia,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Europe,NA,Europe,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Eastern Europe,NA,Europe,Eastern Europe,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Northern Europe,NA,Europe,Northern Europe,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Southern Europe,NA,Europe,Southern Europe,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Western Europe,NA,Europe,Western Europe,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Oceania,NA,Oceania,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Australia and New Zealand,NA,Oceania,Australia and NewZealand,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Melanesia,NA,Oceania,Melanesia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Micronesia,NA,Oceania,Micronesia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Polynesia,NA,Oceania,Polynesia,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Antarctica,ATA,Antarctica,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Least developed countries,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Landlocked developing countries,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Small island developing states,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Transition countries,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Burundi,BDI,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Comoros,COM,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Djibouti,DJI,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Eritrea,ERI,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Ethiopia,ETH,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Kenya,KEN,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Madagascar,MDG,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Malawi,MWI,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Mauritius,MUS,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Mayotte,MYT,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Mozambique,MOZ,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Réunion,REU,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Rwanda,RWA,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Seychelles,SYC,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Somalia,SOM,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Uganda,UGA,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+United Republic of Tanzania,TZA,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Zambia,ZMB,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Zimbabwe,ZWE,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Angola,AGO,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Cameroon,CMR,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Central African Republic,CAF,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Chad,TCD,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Congo,COG,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Democratic Republic of the Congo,COD,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Equatorial Guinea,GNQ,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Gabon,GAB,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Sao Tome and Principe,STP,Africa,Middle Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Algeria,DZA,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Egypt,EGY,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Libya,LBY,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Morocco,MAR,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Sudan,SDN,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Tunisia,TUN,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Western Sahara,ESH,Africa,Northern Africa,Western Asia and Northern Africa,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Botswana,BWA,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Lesotho,LSO,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Namibia,NAM,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+South Africa,ZAF,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Eswatini,SWZ,Africa,Southern Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Benin,BEN,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Burkina Faso,BFA,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Cabo Verde,CPV,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Cote d'Ivoire,CIV,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Gambia,GMB,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Ghana,GHA,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Guinea,GIN,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Guinea-Bissau,GNB,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Liberia,LBR,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Mali,MLI,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Mauritania,MRT,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Niger,NER,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Nigeria,NGA,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Saint Helena,SHN,Africa,Western Africa,Sub-Saharan Africa,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Senegal,SEN,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Sierra Leone,SLE,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Togo,TGO,Africa,Western Africa,Sub-Saharan Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Anguilla,AIA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Aruba,ABW,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Bahamas,BHS,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Barbados,BRB,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+"Bonaire, Saint Eustatius and Saba",BES,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+British Virgin Islands,VGB,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Cayman Islands,CYM,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Cuba,CUB,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Curaçao,CUW,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Dominica,DMA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Dominican Republic,DOM,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Grenada,GRD,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Guadeloupe,GLP,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Haiti,HTI,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Jamaica,JAM,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Martinique,MTQ,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Montserrat,MSR,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Puerto Rico,PRI,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Saint Barthélemy,BLM,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Saint Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Saint Lucia,LCA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Saint Martin (French part),MAF,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Saint Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,Caribbean,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+United States Virgin Islands,VIR,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Netherland Antilles,NA,Americas,Latin America and the Caribbean,Caribbean,NA,NA,FALSE,NA,TRUE,FALSE,FALSE,FALSE,FALSE
+Belize,BLZ,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Costa Rica,CRI,Americas,Latin America and the Caribbean,Central America,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+El Salvador,SLV,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Guatemala,GTM,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Honduras,HND,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Mexico,MEX,Americas,Latin America and the Caribbean,Central America,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+Nicaragua,NIC,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Panama,PAN,Americas,Latin America and the Caribbean,Central America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Argentina,ARG,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Bolivia (Plurinational State of),BOL,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Brazil,BRA,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Chile,CHL,Americas,Latin America and the Caribbean,South America,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+Colombia,COL,Americas,Latin America and the Caribbean,South America,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+Ecuador,ECU,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Falkland Islands (Malvinas),FLK,Americas,Latin America and the Caribbean,South America,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+French Guiana,GUF,Americas,Latin America and the Caribbean,South America,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Guyana,GUY,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Paraguay,PRY,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Peru,PER,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Suriname,SUR,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Uruguay,URY,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Venezuela (Bolivarian Republic of),VEN,Americas,Latin America and the Caribbean,South America,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Bermuda,BMU,Americas,Northern America,Northern America and Europe,NA,NA,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Canada,CAN,Americas,Northern America,Northern America and Europe,OECD,NA,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Greenland,GRL,Americas,Northern America,Northern America and Europe,NA,NA,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Saint Pierre and Miquelon,SPM,Americas,Northern America,Northern America and Europe,NA,NA,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+United States of America,USA,Americas,Northern America,Northern America and Europe,OECD,NA,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Kazakhstan,KAZ,Asia,Central Asia,NA,Central Asia and Southern Asia,Europe and Central Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Kyrgyzstan,KGZ,Asia,Central Asia,NA,Central Asia and Southern Asia,Europe and Central Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Tajikistan,TJK,Asia,Central Asia,NA,Central Asia and Southern Asia,Europe and Central Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Turkmenistan,TKM,Asia,Central Asia,NA,Central Asia and Southern Asia,Europe and Central Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Uzbekistan,UZB,Asia,Central Asia,NA,Central Asia and Southern Asia,Europe and Central Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+China,CHN,Asia,Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+"China, Hong Kong Special Administrative Region",HKG,Asia,Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+"China, Macao Special Administrative Region",MAC,Asia,Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Democratic People's Republic of Korea,PRK,Asia,Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Japan,JPN,Asia,Eastern Asia,Asia and the Pacific,OECD,Eastern Asia and South-eastern Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Mongolia,MNG,Asia,Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Republic of Korea,KOR,Asia,Eastern Asia,Asia and the Pacific,OECD,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+Afghanistan,AFG,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Bangladesh,BGD,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Bhutan,BTN,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+India,IND,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Iran (Islamic Republic of),IRN,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Maldives,MDV,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Nepal,NPL,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Pakistan,PAK,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Sri Lanka,LKA,Asia,Southern Asia,Asia and the Pacific,Central Asia and Southern Asia,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Brunei Darussalam,BRN,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Cambodia,KHM,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Indonesia,IDN,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Lao People's Democratic Republic,LAO,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,TRUE,TRUE,FALSE,FALSE
+Malaysia,MYS,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Myanmar,MMR,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Philippines,PHL,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Singapore,SGP,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Thailand,THA,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Timor-Leste,TLS,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Viet Nam,VNM,Asia,South-Eastern Asia,Asia and the Pacific,NA,Eastern Asia and South-eastern Asia,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Armenia,ARM,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Azerbaijan,AZE,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,TRUE,FALSE,FALSE
+Bahrain,BHR,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Cyprus,CYP,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,TRUE
+Georgia,GEO,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Iraq,IRQ,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Israel,ISR,Asia,Western Asia,Western Asia and Northern Africa,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+Jordan,JOR,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Kuwait,KWT,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Lebanon,LBN,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Occupied Palestinian Territory,PSE,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Oman,OMN,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Qatar,QAT,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Saudi Arabia,SAU,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Syrian Arab Republic,SYR,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Turkiye,TUR,Asia,Western Asia,Western Asia and Northern Africa,OECD,NA,TRUE,developing,FALSE,FALSE,FALSE,TRUE,FALSE
+United Arab Emirates,ARE,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Yemen,YEM,Asia,Western Asia,Western Asia and Northern Africa,NA,NA,TRUE,developing,FALSE,TRUE,FALSE,FALSE,FALSE
+Belarus,BLR,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Bulgaria,BGR,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,TRUE
+Czech Republic,CZE,Europe,Eastern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Hungary,HUN,Europe,Eastern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Poland,POL,Europe,Eastern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+"Moldova, Republic of",MDA,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,TRUE,FALSE,FALSE
+Romania,ROU,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,TRUE
+Russian Federation,RUS,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Slovakia,SVK,Europe,Eastern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Ukraine,UKR,Europe,Eastern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Åland Islands,ALA,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Channel Islands,NA,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Denmark,DNK,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Estonia,EST,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Faroe Islands,FRO,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Finland,FIN,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Guernsey,GGY,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Iceland,ISL,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Ireland,IRL,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Isle of Man,IMN,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Jersey,JEY,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Latvia,LVA,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Lithuania,LTU,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Norway,NOR,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Sark,NA,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Svalbard and Jan Mayen Islands,SJM,Europe,Northern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweden,SWE,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Northern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Albania,ALB,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Andorra,AND,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Croatia,HRV,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,TRUE
+Gibraltar,GIB,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Greece,GRC,Europe,Southern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Holy See,VAT,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,FALSE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Italy,ITA,Europe,Southern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Malta,MLT,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,TRUE
+Montenegro,MNE,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Portugal,PRT,Europe,Southern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+San Marino,SMR,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Serbia,SRB,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Slovenia,SVN,Europe,Southern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Spain,ESP,Europe,Southern Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+NorthMacedonia,MKD,Europe,Southern Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,TRUE,FALSE,FALSE
+Austria,AUT,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Belgium,BEL,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+France,FRA,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Germany,DEU,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Liechtenstein,LIE,Europe,Western Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Luxembourg,LUX,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Monaco,MCO,Europe,Western Europe,Northern America and Europe,NA,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,FALSE,FALSE
+Netherlands,NLD,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,TRUE
+Switzerland,CHE,Europe,Western Europe,Northern America and Europe,OECD,Europe and Central Asia,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Australia,AUS,Oceania,Australia and New Zealand,Asia and the Pacific,OECD,NA,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+New Zealand,NZL,Oceania,Australia and New Zealand,Asia and the Pacific,OECD,NA,TRUE,developed,FALSE,FALSE,FALSE,TRUE,FALSE
+Norfolk Island,NFK,Oceania,Australia and New Zealand,NA,NA,NA,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Fiji,FJI,Oceania,Melanesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+New Caledonia,NCL,Oceania,Melanesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Papua New Guinea,PNG,Oceania,Melanesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Solomon Islands,SLB,Oceania,Melanesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Vanuatu,VUT,Oceania,Melanesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Guam,GUM,Oceania,Micronesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Kiribati,KIR,Oceania,Micronesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Marshall Islands,MHL,Oceania,Micronesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Micronesia (Federated States of),FSM,Oceania,Micronesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Nauru,NRU,Oceania,Micronesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Northern Mariana Islands,MNP,Oceania,Micronesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Palau,PLW,Oceania,Micronesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+American Samoa,ASM,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Cook Islands,COK,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+French Polynesia,PYF,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Niue,NIU,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Pitcairn,PCN,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Samoa,WSM,Oceania,Polynesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Tokelau,TKL,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Tonga,TON,Oceania,Polynesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,FALSE,FALSE,FALSE,FALSE
+Tuvalu,TUV,Oceania,Polynesia,Asia and the Pacific,NA,Oceania excluding Australia and New Zealand,TRUE,developing,TRUE,TRUE,FALSE,FALSE,FALSE
+Wallis and Futuna Islands,WLF,Oceania,Polynesia,NA,NA,Oceania excluding Australia and New Zealand,FALSE,developing,FALSE,FALSE,FALSE,FALSE,FALSE
+Commonwealth of Independent States,NA,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Bouvet Island,BVT,Antarctica,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+British Indian Ocean Territory,IOT,Asia,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Christmas Island,CXR,Oceania,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Cocos (Keeling) Islands,CCK,Asia,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+French Southern Territories,ATF,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+Heard Island and McDonald Islands,HMD,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+South Georgia and the South Sandwich Islands,SGS,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE
+South Sudan,SSD,Africa,Eastern Africa,Sub-Saharan Africa,NA,NA,TRUE,NA,FALSE,TRUE,FALSE,FALSE,FALSE
+United States Minor Outlying Islands,UMI,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,15 @@
+# Targeted re-run: Algorithm 2 bootstrap imputation uncertainty (computes a2 only, does not re-run the whole pipeline)
+GBF_NO_AUTORUN <- TRUE
+source("gbf_compute_pipeline.R")
+source("gbf_compute_remaining.R")
+raw <- readRDS("data/intermediate/chk_02_raw.rds")
+t0 <- Sys.time()
+r <- algo2_imputation(raw, impute_years = TRAJ_YEARS, B = 1000, alpha = 0.05,
+                      B_max = 2000, seed = 42)
+cat(sprintf("[a2 full] %.1f s\n", as.numeric(difftime(Sys.time(), t0, units = "secs"))))
+write_csv(r$per_indicator, "data/output/uncertainty__a2_imputation__per_indicator.csv")
+write_csv(r$gap_length,    "data/output/uncertainty__a2_imputation__gap_length.csv")
+write_csv(r$sensitivity,   "data/output/uncertainty__a2_imputation__sensitivity.csv")
+cat("saved 3 CSVs\n")
+print(as.data.frame(r$sensitivity), digits = 3)
+cat("A2_FULL_DONE\n")

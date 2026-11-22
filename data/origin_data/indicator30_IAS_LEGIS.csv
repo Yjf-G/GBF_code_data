@@ -1,0 +1,196 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,2010,2016,2020,2022
+Afghanistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,1,1,1,1
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,0,1
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,1,1,1
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,1,1,1,1
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,1,1,1,1
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Azerbaijan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,0,0,1,1
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,1,1,1
+Bahrain,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,1,1,1,1
+Barbados,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,0,1,1
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,1,1,1,1
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,0,0,1,1
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,0,1,1,1
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,1,1,1,1
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,0,0,1,1
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,1,1,1
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,1,1,1,1
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,1,1,1
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,0,1,1,1
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,1,1,1
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,1,1,1,1
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,1,1,1,1
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Cook Islands,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,1,1,1
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,1,1,0,1
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,1,0,0
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Dominica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,0,1,1,1
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,0,1
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,1,1,1,1
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,1,1,1
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,0,1,1,1
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,0,0,1,1
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,0,0,1,1
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,1,1,1,1
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,0,1,1,1
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,0,0,1,1
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,1,1,1
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,0,0,1,1
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,1,1,1,1
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,0,1,1
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,1,1,1,1
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,1,1,1,1
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,1,1,1
+Kiribati,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,0,0,1,1
+Kuwait,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0,0,1,1
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,0,0,1,1
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,1,1,1
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,0,0,0
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,1,1,1
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,0,0,1,1
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,1,1,1,1
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Monaco,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,0,1,1
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,0,0,1,1
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,1,1,1
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,1,1,1
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,1,1,1,1
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Nauru,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,0,1,1
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,0,1,1,1
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,1,1,1,1
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,1,1,1
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,1,1,1
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,1,1,1,1
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,0,0,1,1
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,0,1,1
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,1,1,1,1
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,1,1,1,1
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,1,1,1
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,1,1,1,1
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,1,1,1,1
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,0,1,1
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,0,1,1
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,0,0,1,1
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,1,1,1
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,1,1,1,1
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+South Sudan,Africa,Eastern Africa,Sub-Saharan Africa,nation,0,0,ldc,0,0,0,0,0,0,1,1
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,1,1,1,1
+Occupied Palestinian Territory,Asia,Western Asia,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,0,0,1,1
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,0,0,1,1
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,1,1
+Tajikistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0,1,1,1
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,0,1,1
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,1,1,1,1
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,1,1,1
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1,1,1,1
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,0,1,1,1
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0,1,1,1
+Tuvalu,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1,1,1,1
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1,1,1,1
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1,1,1,1
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1,1,1,1
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,1,1,1,1
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0,0,1,1
+Vanuatu,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,1,1,1,1
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,0,1,1,1
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,0,1,1,1
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,0,0,1,1
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,1,1,1,1
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,1,1,1,1

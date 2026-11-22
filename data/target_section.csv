@@ -1,0 +1,28 @@
+id,target,section,goal,theme
+A,Goal A,Goals,Goal A,Goal A
+B,Goal B,Goals,Goal B,Goal B
+C,Goal C,Goals,Goal C,Goal C
+D,Goal D,Goals,Goal D,Goal D
+1,T1,reducing_threats,A,1. Reducing threats to biodiversity
+2,T2,reducing_threats,A,1. Reducing threats to biodiversity
+3,T3,reducing_threats,A,1. Reducing threats to biodiversity
+4,T4,reducing_threats,A,1. Reducing threats to biodiversity
+5,T5,reducing_threats,B,1. Reducing threats to biodiversity
+6,T6,reducing_threats,B,1. Reducing threats to biodiversity
+7,T7,reducing_threats,B,1. Reducing threats to biodiversity
+8,T8,reducing_threats,A,1. Reducing threats to biodiversity
+9,T9,meeting_needs,B,2. Meeting people's needs through sustainable use and benefit-sharing
+10,T10,meeting_needs,B,2. Meeting people's needs through sustainable use and benefit-sharing
+11,T11,meeting_needs,A,2. Meeting people's needs through sustainable use and benefit-sharing
+12,T12,meeting_needs,B,2. Meeting people's needs through sustainable use and benefit-sharing
+13,T13,meeting_needs,C,2. Meeting people's needs through sustainable use and benefit-sharing
+14,T14,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+15,T15,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+16,T16,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+17,T17,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+18,T18,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+19,T19,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+20,T20,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+21,T21,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+22,T22,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming
+23,T23,tools_solutions,D,3. Tools and solutions for implementation and mainstreaming

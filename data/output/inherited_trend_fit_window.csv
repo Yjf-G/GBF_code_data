@@ -1,0 +1,45 @@
+indicator,indicator_name,dpsir_class,hist_first,hist_last,hist_years,fit_window
+3,Ocean Health Index,State,2011,2024,14,14
+11,Standard Material Transfer Agreements reported,Process,2011,2024,14,14
+16,Transboundary basins with arrangements,Response,2011,2024,14,14
+26,Implementation of international instruments,Response,2011,2024,14,14
+31,Coastal eutrophication potential,Pressure,2011,2024,14,14
+41,Companies publishing sustainability reports,Process,2011,2024,14,14
+4,Protected Connected (ProtConn) index,Response,2010,2024,15,15
+14,Trade of environmentally sound technologies,Process,2010,2024,15,15
+30,IAS legislation/regulation,Response,2010,2024,15,15
+37,PM2.5 levels,Pressure,2010,2024,15,15
+47,Fossil-fuel subsidies,Response,2010,2024,15,15
+22,Forest with long-term management plan,Response,2000,2024,16,16
+23,Forest within legally protected areas,Response,2000,2024,16,16
+34,Above-ground biomass in forests,State,2000,2024,16,16
+36,Forest area certified (independent),Response,2000,2024,17,17
+39,Green areas in cities,State,1990,2024,17,17
+40,Biodiversity in national planning (SEEA),Response,2008,2025,18,18
+13,Official flows for scholarships/training,Process,2006,2024,19,19
+18,Extent of natural ecosystems,State,1985,2024,20,20
+35,Local governments adopting plans,Response,2005,2024,20,20
+46,Biosafety Clearing-House records (author-constructed),Process,2003,2024,22,22
+1,Red List Index,State,2000,2024,25,25
+5,Number of local breeds kept,State,2000,2024,25,25
+8,Level of water stress,Pressure,2000,2024,25,25
+15,ODA for biodiversity,Process,2000,2024,25,25
+19,Marine KBAs protected,Response,2000,2024,25,25
+20,Freshwater KBAs protected,Response,2000,2024,25,25
+21,Terrestrial KBAs protected,Response,2000,2024,25,25
+24,Mountain KBAs protected,Response,2000,2024,25,25
+38,Safely managed sanitation,Response,2000,2024,25,25
+44,CO2 emissions per unit of GDP,Pressure,2000,2024,25,25
+45,Water use efficiency,Pressure,2000,2024,25,25
+48,Researchers in R&D per million,Process,2000,2024,25,25
+50,Youth NEET rate,State,2000,2024,25,25
+6,Proportion of local breeds at risk,State,2000,2025,26,26
+53,Seats held by women in parliament,Response,2000,2025,26,26
+27,RLI (food and medicines species),State,1993,2024,32,32
+28,RLI (internationally traded species),State,1993,2024,32,32
+29,RLI (invasive alien species impacts),State,1993,2024,32,32
+2,Biodiversity Intactness Index,State,1970,2050,54,54
+42,Material footprint per capita,Pressure,1970,2024,55,55
+7,Ecological footprint (gha per person),Pressure,1961,2024,64,64
+32,Cropland nutrient budget (NUE),Pressure,1961,2024,64,64
+49,GBIF species occurrence records,Process,1900,2024,125,125

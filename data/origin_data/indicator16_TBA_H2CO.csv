@@ -1,0 +1,120 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,2017,2018,2020,2022,2023
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,75.58,,54.49,,54.49
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,57.54,,57.54
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,79,,78.84,,78.84
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,,,60.41,,60.41
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,0.12,,11.34,,10.15
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Azerbaijan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,,,21.73,,21.73
+Bahrain,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,,,0
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,,,67.43,,30.32
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,,,,,0
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,81.46,,83.33,,86.93
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,,,,65.74,94.68
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,92.6,,92.6,,92.75
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,100,,100,,100
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,62.36,,61.82,,55.75
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,99.55,,99.55,,100
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,,,,,94.91
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,88.34,,88.34,,
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,,,56,,97.67
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,,88.57,88.25,,73.01
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,88,,80.22,,69.69
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,50.41,,44.42,,44.42
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,0,,87.21,,78.6
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,,,,,95.59
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,,,9,,14.46
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,,,,,25.18
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,,,100,,100
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,,,,,66.41
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,100,,100
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,,0,,0
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,100,,100,,
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,0,,0.07,,0.32
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,,0,,0
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,,,91.91,,91.96
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,56.54,,53.27
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,,0,,
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,48.99,,46.86,,95.33
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,,0,,0
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,91.05,,91.05,,91.05
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,32.76,32.76,,52.56
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,,,,,78.95
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,,,42.86,,100
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,,,5.94,,5.73
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,0,,0,,0
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,,,1.22,,1.22
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,13.55,,10.61,,18.38
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,0
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,97.11
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,21.91,,23.23,,25.73
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,72,,63.22,,63.41
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,26.75,,26.75,,35.84
+Kuwait,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,,,0
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,,,27.2,,39.39
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,97,,97.29,,97.06
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,50,,50,,
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,,,,,29.42
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,97.96,,97.96
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,34.96,,34.06,,34.06
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,,,61.4,,61.4
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,,,1.73,,0
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,75.35,,75.35,,
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,,,,,26.6
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,1.31,,38.57,,33.19
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,,,100,,100
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,79.51,,66.68,,67.04
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,,0,,0
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,,,20.02,,19.04
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,100,,100,,100
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,,,,,4.91
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,,,,,0
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,90,,85.66,,85.66
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,,,,,98.72
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,,,12.94,,12.94
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,59.47,,89.45,,89.45
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,,,0
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,,9.13,9.13,,17.8
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,50.86,,50.86,,50.86
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,55.68,,79.26
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,100,,100
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,,0,,
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,0,,0,,0
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,,95.81,100,,100
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,100,,100,,100
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,,,47.9,,100
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,,,,,70.93
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,34,,35.21,,100
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,90.01,,89.65,,89.65
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,7.02,,7.02,,100
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,80.92,,81.5
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,,100,,100
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,,0,,0
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,,,94.91,,96.36
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,100,,100
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,,,0,,0
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,78,100,,100
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,,,90.23,,90.23
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,,,,,62.33
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,60.17,,60.17,,95.73
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,80,,80.47,,80.47
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,83.56,,84.93,,98.68
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,,,60.59,,27
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,0,,0,,0
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,,,,,61.23
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,,,,,83.37
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,,,,,54.64
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,,,69.59,,69.59
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,3.51,,3.51,,
+World,0,0,0,0,0,0,0,0,0,0,global,59.16,,58.09,,58.54
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,,,,,0
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,70.03,,70.03,,77.74
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,,,69.9,,90.36

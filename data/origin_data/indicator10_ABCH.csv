@@ -1,0 +1,31 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,NA,NA,NA,NA,NA,1,NA,55,39,26
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,NA,NA,NA,5,1,2,1,2,3,3
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,NA,NA,NA,NA,NA,NA,NA,NA,2,1
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,NA,NA,NA,NA,NA,12,8,NA,NA,NA
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,NA,NA,3,NA,NA,NA,NA,NA,NA,NA
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,7,NA,4,18
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,NA,NA,1,1,NA,NA,NA,3,9,43
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,NA,NA,NA,NA,1,NA,NA,NA,NA,5
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,NA,NA,NA,NA,171,198,129,119,133,102
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,NA,1,1,NA,NA,NA,NA,NA,NA,NA
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,NA,NA,NA,NA,5,NA,NA,NA,NA,34
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,1,45,39,129,516,683,937,855,291,40
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,NA,NA,5,NA,32,25,11,21,NA,11
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,NA,NA,NA,1,4,6,3,2,15,8
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,NA,NA,1,NA,NA,3,1,4,2,3
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,NA,1,2,4,1,NA,NA,NA,NA,NA
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,NA,NA,6,10,3,11,7,2,8,NA
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,NA,NA,NA,1,5,16,17,15,6,5
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,NA,NA,NA,NA,NA,9,26,4,7,22
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,NA,2,7,15,5,4,4,8,6,10
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,NA,NA,5,25,21,39,19,47,34,55
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,NA,NA,NA,NA,2,1,NA,1,4,NA
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,NA,NA,NA,NA,29,4,3,1,NA,NA

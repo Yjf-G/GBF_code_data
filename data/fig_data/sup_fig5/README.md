@@ -1,0 +1,1 @@
+# Sup Fig. 5: distribution of the target/goal values combined over the k-subsets (one composite value score_c per combination, k = number of indicators in the subset; for k = n there is a single combination shown as a single horizontal line, with the medians connected by a line, Algorithm 1)

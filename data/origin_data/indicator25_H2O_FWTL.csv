@@ -1,0 +1,319 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,year,value
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,14.29
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2021,33.3
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,75
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,55.56
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,100
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2018,76.92
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2021,92.31
+"Ascension, Saint Helena and Tristan da Cunha",0,0,0,0,0,0,0,0,0,0,0,2018,57.14
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2018,75.4
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2021,93.62
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2021,88.89
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,84.62
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,64.29
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,2018,100
+"Bonaire, Sint Eustatius and Saba",0,0,0,0,0,0,0,0,0,0,0,2018,30.56
+"Bonaire, Sint Eustatius and Saba",0,0,0,0,0,0,0,0,0,0,0,2021,28.57
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,16.67
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2021,14.29
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,50
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2018,100
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2018,28
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2021,24
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2018,17.39
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,2021,47.73
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,2018,0
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,2021,0
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,20
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2021,50
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,96.15
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2021,66.67
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,87.5
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,61.54
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2021,71.43
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,0
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2021,0
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,87.5
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,66.67
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,80
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,55.56
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,58.82
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,77.78
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,100
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,33.33
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,70.59
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2021,11.11
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,90.91
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,2021,100
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,76.92
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,23.53
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2021,64.65
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,100
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,50
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,72
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,14.29
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,32.14
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2018,71.43
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,2021,44.74
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2018,85.19
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,28.57
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,100
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,50
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,0
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,50
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,47.37
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2021,57.9
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2021,40
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2018,100
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,100
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2021,80
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,50
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,37.5
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2018,50
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2018,82.61
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2021,80
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2018,77.78
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2021,72.41
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,50
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,50
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2018,0
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2021,100
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2018,100
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2021,100
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,60
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,0
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,85.71
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,83.33
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,74.36
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,89.47
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,100
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2021,100
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,100
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2018,30
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,2021,100
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2021,83.33
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,72.73
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,41.38
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,2021,40
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2018,69.23
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2021,46.43
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,2021,50
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,0
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2021,40
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2018,31.25
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2018,44.44
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,31.25
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2018,16.67
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,2021,33.33
+Tuvalu,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2021,35
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2018,63.64
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,2021,63.64
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2017,59.64
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2019,57.89
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2018,96
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2021,100
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2016,74
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2021,76
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2021,100
+Vanuatu,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,2021,31.58
+Wallis and Futuna Islands,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,2021,35.71
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,2018,100
+World,0,0,0,0,0,0,0,0,0,0,global,1974,90
+World,0,0,0,0,0,0,0,0,0,0,global,1975,90.37
+World,0,0,0,0,0,0,0,0,0,0,global,1976,90.73
+World,0,0,0,0,0,0,0,0,0,0,global,1977,91.1
+World,0,0,0,0,0,0,0,0,0,0,global,1978,91.46
+World,0,0,0,0,0,0,0,0,0,0,global,1979,86.98
+World,0,0,0,0,0,0,0,0,0,0,global,1980,86.7
+World,0,0,0,0,0,0,0,0,0,0,global,1981,86.42
+World,0,0,0,0,0,0,0,0,0,0,global,1982,84.88
+World,0,0,0,0,0,0,0,0,0,0,global,1983,83.33
+World,0,0,0,0,0,0,0,0,0,0,global,1984,82.58
+World,0,0,0,0,0,0,0,0,0,0,global,1985,81.82
+World,0,0,0,0,0,0,0,0,0,0,global,1986,78.75
+World,0,0,0,0,0,0,0,0,0,0,global,1987,75.68
+World,0,0,0,0,0,0,0,0,0,0,global,1988,74.52
+World,0,0,0,0,0,0,0,0,0,0,global,1989,73.37
+World,0,0,0,0,0,0,0,0,0,0,global,1990,81.87
+World,0,0,0,0,0,0,0,0,0,0,global,1991,79.32
+World,0,0,0,0,0,0,0,0,0,0,global,1992,76.78
+World,0,0,0,0,0,0,0,0,0,0,global,1993,75.96
+World,0,0,0,0,0,0,0,0,0,0,global,1994,75.14
+World,0,0,0,0,0,0,0,0,0,0,global,1995,74.32
+World,0,0,0,0,0,0,0,0,0,0,global,1996,75.65
+World,0,0,0,0,0,0,0,0,0,0,global,1997,76.97
+World,0,0,0,0,0,0,0,0,0,0,global,1998,75.57
+World,0,0,0,0,0,0,0,0,0,0,global,1999,74.18
+World,0,0,0,0,0,0,0,0,0,0,global,2000,72.79
+World,0,0,0,0,0,0,0,0,0,0,global,2001,73.69
+World,0,0,0,0,0,0,0,0,0,0,global,2002,74.59
+World,0,0,0,0,0,0,0,0,0,0,global,2003,75.49
+World,0,0,0,0,0,0,0,0,0,0,global,2004,76.39
+World,0,0,0,0,0,0,0,0,0,0,global,2005,74.38
+World,0,0,0,0,0,0,0,0,0,0,global,2006,72.37
+World,0,0,0,0,0,0,0,0,0,0,global,2007,69.7
+World,0,0,0,0,0,0,0,0,0,0,global,2008,67.02
+World,0,0,0,0,0,0,0,0,0,0,global,2009,69.55
+World,0,0,0,0,0,0,0,0,0,0,global,2010,70.32
+World,0,0,0,0,0,0,0,0,0,0,global,2011,71.08
+World,0,0,0,0,0,0,0,0,0,0,global,2012,69.54
+World,0,0,0,0,0,0,0,0,0,0,global,2013,68
+World,0,0,0,0,0,0,0,0,0,0,global,2014,67.33
+World,0,0,0,0,0,0,0,0,0,0,global,2015,66.67
+World,0,0,0,0,0,0,0,0,0,0,global,2016,66.26
+World,0,0,0,0,0,0,0,0,0,0,global,2017,65.85
+World,0,0,0,0,0,0,0,0,0,0,global,2018,65.21
+World,0,0,0,0,0,0,0,0,0,0,global,2019,64.57
+World,0,0,0,0,0,0,0,0,0,0,global,2020,63.45
+World,0,0,0,0,0,0,0,0,0,0,global,2021,62.33
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,77.42
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,47.37
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,45.1
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,46.67
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,52.38
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,53.49
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,57.14
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,57.14
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,60
+"FAO Major Fishing Area: Atlantic, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,48.7
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,63.64
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,74.19
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,73.08
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,69.23
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,84.62
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,78.57
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,73.47
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,79.31
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,72.7
+"FAO Major Fishing Area: Atlantic, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,79.4
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,88.57
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,66.67
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,77.78
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,83.33
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,72.41
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,68.97
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,73.91
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,56.25
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,61.1
+"FAO Major Fishing Area: Atlantic, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,64.3
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,56.52
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,53.85
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,45.16
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,50
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,50
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,58.62
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,67.65
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,67.65
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,64.7
+"FAO Major Fishing Area: Atlantic, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,59.5
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,70.37
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,61.9
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,50
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,47.62
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,45
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,50
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,41.18
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,46.67
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,60
+"FAO Major Fishing Area: Atlantic, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,58.8
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,70.83
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,72.41
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,60
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,45.83
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,63.33
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,55.56
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,60.34
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,61.4
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,62.2
+"FAO Major Fishing Area: Atlantic, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,58
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,85.71
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,79.25
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,78.72
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,79.49
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,89.74
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,84.78
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,73.08
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,68.63
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,65.3
+"FAO Major Fishing Area: Indian Ocean, Eastern (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,63.5
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,75
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,75
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,83.33
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,70.59
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,75
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,66.67
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,66.67
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,68.29
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,62.5
+"FAO Major Fishing Area: Indian Ocean, Western (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,62.5
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2004,65.85
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2006,69.77
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2008,53.19
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2009,50
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2011,48
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2013,40.62
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2015,37.84
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2017,37.5
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2019,36.7
+FAO Major Fishing Area: Mediterranean and Black Sea (14.4.1),0,0,0,0,0,0,0,0,0,0,0,2021,37.5
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,80.95
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,82.35
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,87.5
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,90.91
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,90.91
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,90.91
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,86.67
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,86.67
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,85.7
+"FAO Major Fishing Area: Pacific, Eastern Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,84.2
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,68.42
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,66.67
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,82.35
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,90
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,88
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,86.21
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,85.71
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,83.87
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,86.2
+"FAO Major Fishing Area: Pacific, Northeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,76.5
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,90
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,90
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,78.95
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,84.21
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,78.95
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,76.19
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,82.69
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,65.38
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,55
+"FAO Major Fishing Area: Pacific, Northwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,44
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,56.52
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,58.33
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,77.78
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,72.73
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,63.64
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,58.33
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,38.46
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,45.45
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,33.3
+"FAO Major Fishing Area: Pacific, Southeast (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,33.3
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,89.29
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,77.27
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,81.82
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,88
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,84
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,87.5
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,74.07
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,84.62
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,76.9
+"FAO Major Fishing Area: Pacific, Southwest (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,75.9
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2004,94.34
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2006,94.74
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2008,76.6
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2009,85.29
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2011,86.11
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2013,77.5
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2015,82.61
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2017,77.55
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2019,79.6
+"FAO Major Fishing Area: Pacific, Western Central (14.4.1)",0,0,0,0,0,0,0,0,0,0,0,2021,65.2

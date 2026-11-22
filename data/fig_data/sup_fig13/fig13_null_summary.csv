@@ -1,0 +1,8 @@
+stat,model,observed,p_value,p_type
+share_positive,A_exchangeability,0.46923076923076923,0,two-sided
+top5_share,A_exchangeability,0.6159432983826809,0.808095952023988,upper-tail
+max_share,A_exchangeability,0.43213546815020587,0.9970014992503748,upper-tail
+share_positive,B_sign_symmetry,0.46923076923076923,0.993,two-sided
+top5_share,B_sign_symmetry,0.6159432983826809,0.5037481259370314,upper-tail
+max_share,B_sign_symmetry,0.43213546815020587,0.5037481259370314,upper-tail
+share_positive,C_binomial,0.46923076923076923,0.5394195522817192,two-sided

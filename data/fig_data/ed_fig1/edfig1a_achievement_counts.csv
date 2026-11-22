@@ -1,0 +1,109 @@
+layer,layer_id,class,n
+goal,A,Favourable,8
+goal,A,Full achievement,38
+goal,A,Mixed,12
+goal,A,Unfavourable,134
+goal,B,Favourable,4
+goal,B,Full achievement,50
+goal,B,Mixed,18
+goal,B,Unfavourable,120
+goal,C,Favourable,49
+goal,C,Full achievement,43
+goal,C,Mixed,42
+goal,C,Unfavourable,45
+goal,D,Favourable,11
+goal,D,Full achievement,53
+goal,D,Mixed,44
+goal,D,Unfavourable,76
+target,T1,Favourable,5
+target,T1,Full achievement,52
+target,T1,Mixed,22
+target,T1,Unfavourable,77
+target,T10,Favourable,3
+target,T10,Full achievement,44
+target,T10,Mixed,22
+target,T10,Unfavourable,104
+target,T11,Favourable,6
+target,T11,Full achievement,66
+target,T11,Mixed,22
+target,T11,Unfavourable,98
+target,T12,Favourable,4
+target,T12,Full achievement,10
+target,T12,Mixed,10
+target,T12,Unfavourable,104
+target,T13,Favourable,50
+target,T13,Full achievement,60
+target,T13,Mixed,33
+target,T13,Unfavourable,36
+target,T14,Favourable,1
+target,T14,Full achievement,9
+target,T14,Mixed,12
+target,T14,Unfavourable,67
+target,T15,Favourable,11
+target,T15,Full achievement,31
+target,T15,Mixed,12
+target,T15,Unfavourable,8
+target,T16,Favourable,0
+target,T16,Full achievement,0
+target,T16,Mixed,14
+target,T16,Unfavourable,158
+target,T17,Favourable,0
+target,T17,Full achievement,1
+target,T17,Mixed,0
+target,T17,Unfavourable,11
+target,T18,Favourable,0
+target,T18,Full achievement,11
+target,T18,Mixed,16
+target,T18,Unfavourable,131
+target,T19,Favourable,1
+target,T19,Full achievement,4
+target,T19,Mixed,71
+target,T19,Unfavourable,108
+target,T2,Favourable,2
+target,T2,Full achievement,3
+target,T2,Mixed,20
+target,T2,Unfavourable,150
+target,T20,Favourable,20
+target,T20,Full achievement,59
+target,T20,Mixed,40
+target,T20,Unfavourable,70
+target,T21,Favourable,23
+target,T21,Full achievement,65
+target,T21,Mixed,18
+target,T21,Unfavourable,86
+target,T22,Favourable,12
+target,T22,Full achievement,37
+target,T22,Mixed,11
+target,T22,Unfavourable,61
+target,T23,Favourable,17
+target,T23,Full achievement,78
+target,T23,Mixed,32
+target,T23,Unfavourable,61
+target,T3,Favourable,13
+target,T3,Full achievement,18
+target,T3,Mixed,44
+target,T3,Unfavourable,112
+target,T4,Favourable,0
+target,T4,Full achievement,60
+target,T4,Mixed,2
+target,T4,Unfavourable,130
+target,T5,Favourable,0
+target,T5,Full achievement,20
+target,T5,Mixed,6
+target,T5,Unfavourable,100
+target,T6,Favourable,0
+target,T6,Full achievement,186
+target,T6,Mixed,0
+target,T6,Unfavourable,0
+target,T7,Favourable,1
+target,T7,Full achievement,2
+target,T7,Mixed,28
+target,T7,Unfavourable,154
+target,T8,Favourable,9
+target,T8,Full achievement,62
+target,T8,Mixed,34
+target,T8,Unfavourable,85
+target,T9,Favourable,2
+target,T9,Full achievement,62
+target,T9,Mixed,4
+target,T9,Unfavourable,94

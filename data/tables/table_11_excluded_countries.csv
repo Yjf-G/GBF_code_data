@@ -1,0 +1,64 @@
+no,country,iso3,region,n_indicators_with_data,missing_pct
+1,Afghanistan,AFG,Asia and the Pacific,29,29.3
+2,Andorra,AND,Northern America and Europe,15,63.4
+3,Antigua and Barbuda,ATG,Caribbean,28,31.7
+4,Bahamas,BHS,Caribbean,23,43.9
+5,Bahrain,BHR,Western Asia and Northern Africa,31,24.4
+6,Barbados,BRB,Caribbean,27,34.1
+7,Belize,BLZ,Central America,32,22
+8,Bhutan,BTN,Asia and the Pacific,31,24.4
+9,Brunei Darussalam,BRN,Asia and the Pacific,24,41.5
+10,Burundi,BDI,Sub-Saharan Africa,30,26.8
+11,Cabo Verde,CPV,Sub-Saharan Africa,30,26.8
+12,Central African Republic,CAF,Sub-Saharan Africa,29,29.3
+13,Chad,TCD,Sub-Saharan Africa,32,22
+14,Comoros,COM,Sub-Saharan Africa,31,24.4
+15,Democratic People's Republic of Korea,PRK,Asia and the Pacific,29,29.3
+16,Djibouti,DJI,Sub-Saharan Africa,30,26.8
+17,Dominica,DMA,Caribbean,24,41.5
+18,Equatorial Guinea,GNQ,Sub-Saharan Africa,28,31.7
+19,Eritrea,ERI,Sub-Saharan Africa,30,26.8
+20,Fiji,FJI,Asia and the Pacific,31,24.4
+21,Gabon,GAB,Sub-Saharan Africa,31,24.4
+22,Grenada,GRD,Caribbean,28,31.7
+23,Guinea-Bissau,GNB,Sub-Saharan Africa,31,24.4
+24,Guyana,GUY,South America,32,22
+25,Haiti,HTI,Caribbean,29,29.3
+26,Kiribati,KIR,Asia and the Pacific,22,46.3
+27,Kuwait,KWT,Western Asia and Northern Africa,30,26.8
+28,Lao People's Democratic Republic,LAO,Asia and the Pacific,32,22
+29,Lesotho,LSO,Sub-Saharan Africa,30,26.8
+30,Liberia,LBR,Sub-Saharan Africa,30,26.8
+31,Libya,LBY,Western Asia and Northern Africa,31,24.4
+32,Liechtenstein,LIE,Northern America and Europe,16,61
+33,Luxembourg,LUX,Northern America and Europe,31,24.4
+34,Maldives,MDV,Asia and the Pacific,25,39
+35,Mali,MLI,Sub-Saharan Africa,32,22
+36,Marshall Islands,MHL,Asia and the Pacific,17,58.5
+37,Micronesia (Federated States of),FSM,Asia and the Pacific,20,51.2
+38,Monaco,MCO,Northern America and Europe,14,65.9
+39,Nauru,NRU,Asia and the Pacific,18,56.1
+40,North Macedonia,MKD,Northern America and Europe,0,100
+41,Palau,PLW,Asia and the Pacific,21,48.8
+42,Papua New Guinea,PNG,Asia and the Pacific,30,26.8
+43,Paraguay,PRY,South America,32,22
+44,Rwanda,RWA,Sub-Saharan Africa,31,24.4
+45,Saint Kitts and Nevis,KNA,Caribbean,25,39
+46,Saint Lucia,LCA,Caribbean,26,36.6
+47,Saint Vincent and the Grenadines,VCT,Caribbean,25,39
+48,Samoa,WSM,Asia and the Pacific,27,34.1
+49,San Marino,SMR,Northern America and Europe,12,70.7
+50,Sao Tome and Principe,STP,Sub-Saharan Africa,31,24.4
+51,Seychelles,SYC,Sub-Saharan Africa,29,29.3
+52,Singapore,SGP,Asia and the Pacific,24,41.5
+53,Solomon Islands,SLB,Asia and the Pacific,27,34.1
+54,Somalia,SOM,Sub-Saharan Africa,29,29.3
+55,South Sudan,SSD,Sub-Saharan Africa,21,48.8
+56,Syrian Arab Republic,SYR,Western Asia and Northern Africa,32,22
+57,Tajikistan,TJK,—,31,24.4
+58,Timor-Leste,TLS,Asia and the Pacific,23,43.9
+59,Tonga,TON,Asia and the Pacific,28,31.7
+60,Turkmenistan,TKM,—,30,26.8
+61,Tuvalu,TUV,Asia and the Pacific,21,48.8
+62,United Arab Emirates,ARE,Western Asia and Northern Africa,30,26.8
+63,Vanuatu,VUT,Asia and the Pacific,27,34.1

@@ -1,0 +1,45 @@
+indicator,series_type,cv,snr,selected_form,aicc,n_models_averaged,top_weight,breakpoint_year,notes
+1,low-noise (PMA),0.035,112366.313,segmented,-117.77,1,0.953,2002,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2002
+2,low-noise (PMA),0.017,69409.894,segmented,-62.94,1,1,2016,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2016
+3,low-noise (PMA),0.045,46.288,segmented,52.34,1,0.993,2021,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2021
+4,low-noise (PMA),0.119,265618.949,segmented,18.5,1,1,2012,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2012
+5,low-noise (PMA),0.202,836767.213,segmented,56.19,1,0.998,2008,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2008
+6,low-noise (PMA),0.049,10.463,segmented,83.78,1,1,2024,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2024
+7,low-noise (PMA),0.023,44.427,segmented,116.3,1,1,2008,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2008
+8,low-noise (PMA),0.005,102047.306,segmented,-11.73,1,1,2008,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2008
+11,low-noise (PMA),0.308,1051633653.165,poly1,-6.07,2,0.366,NA,PMA averaged over 2 models (delta AICc<2)
+13,low-noise (PMA),0.343,8271056.2,power_law,75.56,7,0.132,2009,PMA averaged over 7 models (delta AICc<2); segmented breakpoint 2009
+14,high-noise (DLM),0.022,0.148,DLM,NA,1,1,NA,dynamic linear model
+15,low-noise (PMA),0.306,3.187,segmented,98.22,1,0.946,2002,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2002
+16,low-noise (PMA),0.025,92636034.24,segmented,5.33,1,0.965,2019,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2019
+18,low-noise (PMA),0.01,10347288.175,segmented,-36.86,1,0.945,2012,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2012
+19,low-noise (PMA),0.179,109041822.108,quad,35.99,1,0.776,NA,PMA averaged over 1 models (delta AICc<2)
+20,low-noise (PMA),0.143,25641166.061,segmented,43.59,1,0.955,2010,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2010
+21,low-noise (PMA),0.143,33491828.444,asymptotic,27.37,2,0.702,2009,PMA averaged over 2 models (delta AICc<2); segmented breakpoint 2009
+22,high-noise (DLM),0.01,0.182,DLM,NA,1,1,NA,dynamic linear model
+23,low-noise (PMA),0.045,4181789.332,segmented,-18.54,1,1,2016,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2016
+24,low-noise (PMA),0.123,152087.265,segmented,7.19,1,0.999,2010,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2010
+26,low-noise (PMA),0.013,647538535.595,segmented,18.47,1,0.589,2016,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2016
+27,low-noise (PMA),0.068,42112134.103,segmented,-94.57,1,1,2020,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2020
+28,low-noise (PMA),0.163,67253586.736,segmented,18.68,1,1,2020,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2020
+29,low-noise (PMA),0.041,96365439.651,quad,-30.97,1,0.985,NA,PMA averaged over 1 models (delta AICc<2)
+30,low-noise (PMA),0.208,1000674.88,segmented,77.55,1,0.853,2021,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2021
+31,high-noise (DLM),0.016,0,DLM,NA,1,1,NA,dynamic linear model
+32,low-noise (PMA),0.154,19.411,segmented,80.83,1,1,1988,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 1988
+34,low-noise (PMA),0.013,562145.973,segmented,-65.31,1,1,2017,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2017
+35,low-noise (PMA),0.311,624269.944,segmented,121.06,4,0.26,2013,PMA averaged over 4 models (delta AICc<2); segmented breakpoint 2013
+36,low-noise (PMA),0.246,2181158533.46,quad,-17,1,0.996,NA,PMA averaged over 1 models (delta AICc<2)
+37,low-noise (PMA),0.01,10.449,segmented,9.02,6,0.198,2021,PMA averaged over 6 models (delta AICc<2); segmented breakpoint 2021
+38,low-noise (PMA),0.055,9669584868.973,segmented,-14.35,2,0.654,2015,PMA averaged over 2 models (delta AICc<2); segmented breakpoint 2015
+39,low-noise (PMA),0.213,7235002.136,quad,-12.19,1,1,NA,PMA averaged over 1 models (delta AICc<2)
+40,low-noise (PMA),0.426,73450.172,segmented,127.73,1,0.907,2017,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2017
+41,low-noise (PMA),0.443,34230260.027,segmented,34.88,1,0.997,2016,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2016
+42,low-noise (PMA),0.025,39868544.652,segmented,150.73,1,1,1994,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 1994
+44,low-noise (PMA),0.029,860966.376,quad,3.36,2,0.517,2013,PMA averaged over 2 models (delta AICc<2); segmented breakpoint 2013
+45,low-noise (PMA),0.212,1269447.178,segmented,-0.2,1,0.978,2005,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2005
+46,high-noise (DLM),0.785,0.506,DLM,NA,1,1,NA,dynamic linear model
+47,low-noise (PMA),0.08,144293.636,segmented,88.72,2,0.525,2017,PMA averaged over 2 models (delta AICc<2); segmented breakpoint 2017
+48,low-noise (PMA),0.121,6.701,segmented,116.24,6,0.269,2016,PMA averaged over 6 models (delta AICc<2); segmented breakpoint 2016
+49,low-noise (PMA),1.435,2.113,exponential,416.13,1,1,NA,PMA averaged over 1 models (delta AICc<2)
+50,low-noise (PMA),0.159,15097.972,segmented,132.88,1,0.989,2017,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2017
+53,low-noise (PMA),0.248,926105.749,segmented,50.9,1,0.71,2018,PMA averaged over 1 models (delta AICc<2); segmented breakpoint 2018

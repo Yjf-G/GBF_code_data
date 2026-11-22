@@ -1,0 +1,54 @@
+indicator_id,indicator_name,used,targets,dpsir_class,dpsir_class_alt,coding_basis
+1,Red List Index,Y,A;B;T4,State,,Species extinction-risk state (DPSIR State; impact-on-state folded into State)
+2,Biodiversity Intactness Index,Y,A;B;T4,State,,Biodiversity intactness state
+3,Ocean Health Index,Y,A,State,Pressure,Composite ecosystem-condition index (predominantly State; mixes pressure and response sub-indicators)
+4,Protected Connected (ProtConn) index,Y,A;T3,Response,State,Area-based conservation coverage and connectivity (protected-area coverage classed as Response in SEEA/EEA practice); alt: state of the protection network
+5,Number of local breeds kept,Y,A;T4;T9,State,,State of livestock genetic resources
+6,Proportion of local breeds at risk,Y,T10,State,,Risk status of genetic resources (impact-on-state folded into State)
+7,Ecological footprint (gha per person),Y,B,Pressure,,Per-capita biocapacity demand
+8,Level of water stress,Y,B;T11,Pressure,,Freshwater withdrawal pressure
+9,Bodies of water with good ambient quality,N,,State,,Environmental quality state
+10,Internationally recognized certificates (ABS),N,,Response,Process,ABS certificate adoption stock
+11,Standard Material Transfer Agreements reported,Y,C;T13,Process,Response,ABS compliance transaction/reporting flow
+12,National ocean science expenditure,N,,Process,,Science expenditure flow
+13,Official flows for scholarships/training,Y,D;T19;T20,Process,Response,Capacity-building effort flow
+14,Trade of environmentally sound technologies,Y,D;T19;T20,Process,Response,Technology-transfer activity flow
+15,ODA for biodiversity,Y,D;T19,Process,Response,Biodiversity finance flow
+16,Transboundary basins with arrangements,Y,T1,Response,Process,Institutional arrangement stock
+17,Land degraded over time,N,,Pressure,State,Land-degradation pressure
+18,Extent of natural ecosystems,Y,T2,State,,Ecosystem extent state
+19,Marine KBAs protected,Y,T3,Response,State,Protection coverage (designated coverage classed as Response); alt: state of the protection network
+20,Freshwater KBAs protected,Y,T3,Response,State,Protection coverage (designated coverage classed as Response); alt: state of the protection network
+21,Terrestrial KBAs protected,Y,T3,Response,State,Protection coverage (designated coverage classed as Response); alt: state of the protection network
+22,Forest with long-term management plan,Y,T3,Response,,Management-plan adoption stock
+23,Forest within legally protected areas,Y,T1;T3;T10,Response,State,Legal protection designation; alt: state of the protection network
+24,Mountain KBAs protected,Y,T3,Response,State,Protection coverage (designated coverage classed as Response); alt: state of the protection network
+25,Fish stocks within sustainable levels,N,,State,,Fish-stock state
+26,Implementation of international instruments,Y,T5;T9;T10,Response,Process,Policy implementation stock (ordinal count of instruments implemented)
+27,RLI (food and medicines species),Y,T5;T9,State,,Species extinction-risk state (regional series)
+28,RLI (internationally traded species),Y,T5,State,,Species extinction-risk state (regional series)
+29,RLI (invasive alien species impacts),Y,T6,State,,Impact-on-state of IAS (regional series; folded into State)
+30,IAS legislation/regulation,Y,T6,Response,,Legislation/regulation adoption stock
+31,Coastal eutrophication potential,Y,T7;T8,Pressure,State,Nutrient pollution load
+32,Cropland nutrient budget (NUE),Y,T7,Pressure,State,Nutrient-use efficiency (pressure intensity)
+33,Safely treated domestic wastewater,N,,Response,Process,Wastewater treatment service provision
+34,Above-ground biomass in forests,Y,T8,State,,Ecosystem carbon-stock state
+35,Local governments adopting plans,Y,T8,Response,Process,Planning adoption stock
+36,Forest area certified (independent),Y,T10,Response,Process,Certification coverage (management response)
+37,PM2.5 levels,Y,T11,Pressure,State,Air pollutant load (alt: air-quality state under EEA convention)
+38,Safely managed sanitation,Y,T11,Response,State,Sanitation service provision (societal response to pollution pressure); alt: service state
+39,Green areas in cities,Y,T12,State,Response,Urban green state; alt: planning response
+40,Biodiversity in national planning (SEEA),Y,T14,Response,,Mainstreaming adoption stock
+41,Companies publishing sustainability reports,Y,T15,Process,Response,Corporate disclosure/reporting activity
+42,Material footprint per capita,Y,T16,Pressure,,Extraction/material-demand pressure
+43,Municipal waste recycled,N,,Process,Response,Waste-management activity
+44,CO2 emissions per unit of GDP,Y,T16,Pressure,,Emission intensity (pressure intensity)
+45,Water use efficiency,Y,T16,Pressure,State,Resource-use intensity (pressure intensity); alt: efficiency state
+46,Biosafety Clearing-House records (author-constructed),Y,T17,Process,Response,Reporting/data-record flow (author-constructed)
+47,Fossil-fuel subsidies,Y,T18,Response,Pressure,Perverse policy instrument (negative-direction response); alt: pressure-generating incentive
+48,Researchers in R&D per million,Y,T20,Process,Response,R&D capacity flow
+49,GBIF species occurrence records,Y,T21,Process,,Knowledge/data mobilization flow (accumulates by construction)
+50,Youth NEET rate,Y,T22,State,Process,Socioeconomic outcome state
+51,Young members in parliament ratio,N,,Response,,Representation structure
+52,Female members in parliament ratio,N,,Response,,Representation structure
+53,Seats held by women in parliament,Y,T23,Response,Process,Institutional representation stock

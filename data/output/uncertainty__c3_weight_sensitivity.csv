@@ -1,0 +1,11 @@
+scheme,level,net_change
+equal,target,6.276865379974339
+dirichlet_mean,target,6.26994070582248
+dirichlet_sd,target,0.21845525252319697
+PCA_first_component,target,6.282086463497038
+equal_excluding_BCH46,target,6.568146306094967
+equal,goal,3.5546549036888493
+dirichlet_mean,goal,3.5660581083826934
+dirichlet_sd,goal,0.661513846541601
+PCA_first_component,goal,3.603173543694112
+equal_excluding_BCH46,goal,3.5546549036888493

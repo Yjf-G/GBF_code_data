@@ -1,0 +1,238 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,2010,2012,2014,2016,2018,2019,2020,2021,2022,2023,2024
+Aruba,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,0,0,0,0,19.45,19.24,19.24,19.23733144,19.23733144,19.23733144,19.23733144
+Afghanistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,0.2,0.18,0.2,0.2,0.09,0.09,0.09,2.087628993,2.087628993,2.087628993,2.083479749
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,6.87,7.03,2.56,2.56,2.56,2.54,2.54,2.540171564,2.53984353,2.53984353,5.745342124
+Anguilla,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,2.48,2.48,2.48,2.48,0,0,0,0,0,0,0
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,4.35,4.81,1.75,7.87,7.98,8.05,8.19,8.175757817,8.17630267,8.17630267,12.11140281
+Andorra,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,6.72,6.74,17.91,20.91,26.54,23.71,23.96,23.96456245,24.09860464,24.09860464,24.09860464
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,4.81,12.69,12.8,12.82,10.63,10.73,10.73,10.81634474,10.81634456,10.81634456,10.82583814
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,1.81,1.82,1.53,2.33,2.34,1.73,1.73,1.734079833,1.73402274,1.808771025,1.819553646
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,5.68,5.68,20.81,20.81,20.81,19.74,22.49,22.48333385,22.76212104,22.76185061,34.49327235
+American Samoa,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,0,0,0,15.72,15.58,15.58,0,15.58156828,15.58156828,15.61109464
+French Southern Territories,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06,97.92,99.37,99.61,99.61,99.51301719,99.51301568,99.57213609,99.57213609
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,12.78,12.78,5.61,20.62,20.37,20.23,20.23,21.09718214,19.81143677,19.81143677,19.81143677
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,2.83,2.92,4,6.46,7.36,5.41,5.46,5.701829958,5.714813502,5.714764909,7.960417505
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,13.34,13.91,24.76,24.81,24.82,23.81,24,24.9125924,24.94437858,25.06067525,25.18384344
+Azerbaijan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,1.51,1.45,2.19,2.19,2.2,2.06,2.2,2.205460217,2.205452809,2.205664976,5.111934798
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,2.59,2.59,3.73,3.73,4.01,3.93,3.93,3.929068879,3.927925258,3.927925258,3.927962245
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1.21,17.8,17.11,17.46,17.21,15.17,18.72,9.086944192,9.10835273,9.405063651,9.91311646
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,18.46,18.46,18.46,17.77,18.47,18.33,18.33,18.33760094,18.31901692,18.31901692,18.31901692
+"Bonaire, Sint Eustatius and Saba",0,0,0,0,0,0,0,0,0,0,0,0,29.27,29.27,29.27,21.26,20.85,20.85,31.8128319,31.81282517,31.81282517,31.81282517
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,8.07,8.25,8.25,8.25,7.78,7.68,7.69,8.118367858,8.118576801,8.118576801,8.118576801
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,2.84,2.83,2.8,2.8,2.8,2.77,2.77,2.771702294,2.771486712,2.771486712,2.804064277
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2.95,33.37,37.82,31.26,31.28,36.81,36.83,37.96940823,37.96953359,37.96952883,42.53569414
+Bahrain,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,5.61,15.5,15.5,5.35,5.35,5.2,5.2,5.198244184,5.196152655,11.14672223,11.14672223
+Bahamas,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,13.33,13.33,13.33,27.45,30.65,30.52,30.52,30.52195508,30.52195558,30.52195558,30.52195558
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0.96,0.96,1.06,1.12,1.03,0.96,0.99,1.979614681,2.231081203,2.240542474,4.734879257
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2.15,2.22,2.31,2.4,2.84,2.66,2.74,2.740668532,4.952477802,4.952484898,3.171607802
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,25.95,34.77,34.79,35.23,33.01,32.5,32.51,32.40718234,32.40716841,32.40718304,32.4071739
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,7.39,7.39,8.36,11.78,11.51,10.8,10.85,10.84712902,10.82246311,10.82246311,10.89701099
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,11.18,12.15,16.7,17.07,20.31,19.73,20.19,20.19145617,20.19079439,20.19079216,20.32909752
+Barbados,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0,0,0,0.58,0.58,0.57,0.57,0.56877369,0.56877828,0.56877828,0.56877828
+Brunei Darussalam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,37.72,37.72,37.72,37.72,37.72,35.38,36.08,34.26567058,34.26536774,34.26536774,26.79794447
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,16.95,16.95,50.66,50.66,50.69,50.48,50.48,52.23638646,52.23638646,52.23638646,53.1501869
+Bouvet Island,Antarctica,0,0,0,0,0,0,0,0,0,0,55.81,55.81,55.81,55.81,55.81,55.56,55.56,55.55807771,55.58807227,100,100
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,26.26,26.26,18.36,18.36,18.36,18.12,18.13,18.13314556,18.13305935,18.13305935,18.13305935
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,10.5,10.49,10.49,10.49,10.49,10.42,10.42,10.4247343,10.42447774,10.42447774,9.243673309
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,2.43,2.45,2.44,2.57,2.57,2.57,2.67,2.432182251,2.932160972,2.932172454,2.983042505
+Cocos (Keeling) Islands,Asia,0,0,0,0,0,0,0,0,0,0,15.67,15.67,15.67,15.67,15.67,15.6,15.6,15.59679685,15.59660759,15.59660759,15.59660759
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,10.2,15.7,3.89,3.88,3.88,3.84,3.91,4.455383755,4.471125992,4.47788345,4.59897551
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,8.88,11.52,11.36,11.37,11.45,13.89,13.89,14.31951326,14.31949303,14.32270262,14.33101391
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,8.71,8.71,8.72,8.72,8.72,0.54,0.54,0.541806862,0.541787392,0.541787392,0.541787392
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,7.54,7.4,7.4,7.4,7.64,7.19,7.29,7.232812417,7.232576352,7.232576352,7.148210719
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2.98,3.03,3.07,3.01,3.48,3.44,3.45,3.445121996,3.445690933,3.445690933,3.447029198
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2.93,4.13,4.13,4.13,4.44,4.41,4.41,4.414981794,4.414972595,4.415344565,4.565888726
+Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,20.26,25.15,25.66,25.66,28.53,28.31,29.62,27.97866537,27.97866536,27.97866536,27.99930006
+Cook Islands,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0.64,0.64,0.64,0.64,0.64,0.57,0.57,0.516058643,0.516048835,0.516048835,1.38504491
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,11,11.26,11.42,4.19,4.3,3.73,3.74,5.215819385,5.364462816,11.69370832,14.25096568
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,10.33,10.33,10.33,10.33,10.33,10.15,32.5,32.49901207,32.50008455,32.50008455,32.50008455
+Cabo Verde,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,4.89,2.51,2.64,2.64,3,2.98,2.98,2.984513312,2.984512304,2.984512304,16.35113701
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,15.19,16.37,17.24,17.24,17.24,17.54,17.54,17.93041992,16.1733136,16.1733539,16.18264549
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,6.3,6.34,6.34,6.34,7.39,7.33,7.33,7.330881553,7.330881477,7.330881477,7.330881477
+Curagao,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,0,5.81,6.22,13.67,13.67,13.58,13.58,13.57661968,13.57661968,13.57661968,13.57661968
+Christmas Island,Oceania,0,0,0,0,0,0,0,0,0,0,61.25,61.25,5.32,61.39,61.39,60.88,60.77,60.86170649,60.80854656,60.80854656,61.05063995
+Cayman Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,4.32,4.32,4.32,5.56,5.56,5.45,5.45,5.445791306,5.445787687,5.445787687,5.445787687
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,33.05,37.58,16.45,16.48,16.69,36.46,36.46,36.52155902,36.64539017,36.64539017,36.67613222
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,6.72,14.5,13.85,14.75,14.91,9.7,11.64,11.64014906,11.66884878,11.69361599,11.78534499
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,34.05,47.01,34.72,35.01,35.11,18.92,34.65,35.09295438,34.89099625,35.07987151,36.85985113
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0.08,0.08,1.34,1.34,1.34,1.33,1.33,1.332875764,1.332870421,1.332870421,1.332870421
+Dominica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,20.07,20.07,20.07,19.61,19.61,19.46,19.46,19.46141974,19.46135488,19.46135488,19.46135488
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,3.54,8.36,7.81,7.81,7.78,7.26,7.27,6.920208721,6.918514195,6.949737472,7.027424391
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,0.42,14.01,14.13,14.13,17.38,17.27,17.27,17.26741723,17.26762489,17.09658298,17.09727908
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,4.78,4.74,4.73,4.73,4.73,4.71,4.71,49.42625356,49.42754815,49.42754815,49.42625356
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,13.72,13.73,13.83,11.43,11.43,12.96,13.01,13.04560506,13.17068645,13.25016378,13.32342865
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,5,7.31,7.31,7.31,7.31,7.27,7.27,7.270674083,7.270612376,7.270612376,7.270612376
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,3.21,3.21,3.21,3.21,3.21,3.19,3.19,3.190352139,#N/A,#N/A,#N/A
+Western Sahara,Africa,Northern Africa,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,4.98,4.98,4.98,4.98,4.98,4.96,4.96,0.115268272,#N/A,#N/A,#N/A
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2.62,21.58,19.85,19.87,20.02,18.41,18.43,18.44227572,18.4495589,18.45615152,18.47475619
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,9.45,10.8,9.77,9.85,9.85,8.71,9.11,9.505764284,9.47633945,9.488484039,10.98842892
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,8.72,8.72,8.72,8.73,8.73,8.22,8.23,7.796689777,7.836058641,7.836058641,7.838616922
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,5.93,8.99,8.88,8.88,8.92,6.85,6.93,6.854176635,6.85598063,6.898835045,7.312783756
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1.41,2.48,2.48,3.08,3.09,3.04,3.04,3.036138597,3.036187601,3.036187601,3.036187601
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,0,0.25,0.3,0.3,0.33,0.33,0.33,0.330003391,0.330004079,0.330004079,0.330004079
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,4.55,17.62,17.97,18.65,18.28,18.5,19.98,19.58450209,20.19400485,20.44580396,20.72922554
+Faroe Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,4.02,1.15,1.81,1.81,1.81,1.82,1.82,1.815448619,1.815441086,1.815441086,1.815441086
+Micronesia (Federated States of),Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,3.87,3.87,3.87,4.55,0.68,0.68,0.68,0.675510048,0.675497401,0.675497401,#N/A
+Gabon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,8.41,7.83,7.67,7.67,10.07,9.95,9.95,9.952159318,9.949613778,9.949613778,9.963226051
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1.12,12.72,13.1,12.95,13.61,13.67,13.67,13.95050462,12.34240634,12.34214359,13.60782063
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1.34,1.3,3.73,3.73,3.73,4.54,4.54,4.567284839,6.038635676,6.038635676,10.23686227
+Guernsey,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,0,0,0,12.01,1.61,1.6,1.6,6.788394639,6.78759273,6.788323101,6.788323101
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,5.5,5.5,5.5,5.5,5.5,5.2,5.2,5.034673554,5.034818154,5.034818154,5.034818154
+Gibraltar,Europe,Southern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,0,0,36.33,36.33,36.33,0,31.27,0,0,0,30.55105539
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,18.7,18.7,18.69,18.69,25.18,25,25.18,25.18447061,28.17522509,28.17522509,28.17522509
+Guadeloupe,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,15.54,68.32,68.41,68.48,68.51,69,69,69.03473168,69.03312768,69.03488556,69.10576043
+Gambia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,2.34,3.78,2.98,2.98,2.98,2.94,2.96,6.957655974,6.957894956,6.957894956,6.957894956
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,8.94,8.94,8.94,8.94,9.26,9.2,9.2,22.50209505,23.11813572,23.11813572,23.11813572
+Equatorial Guinea,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,15.17,15.17,18.51,18.51,13.84,13.66,13.66,13.66201011,13.66201036,13.66201036,13.66201036
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,6.11,19.38,19.7,19.69,20.16,19.85,19.85,19.84773088,19.84773631,19.84773284,19.85276723
+Grenada,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,1.94,1.94,2.33,9.01,9.01,8.9,8.9,8.492128947,8.492128947,8.492128947,8.492128947
+Greenland,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,40.69,40.98,40.98,40.98,40.98,41.21,41.2,41.20074602,41.20074596,41.20074603,41.20074603
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,23.27,23.27,24.14,24.14,10.84,10.57,10.58,10.61033475,10.61024359,10.61024359,10.61024359
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,3.11,43.34,48.87,48.87,48.89,48,48,48.00052192,48.00062108,48.00037969,48.00002192
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,20.97,21.19,21.19,18.22,18.22,18.12,18.12,1.162269664,2.668896281,2.668896281,2.677046811
+Guyana,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,3.69,3.64,5.44,5.48,5.44,4.67,4.52,4.542809995,4.542809995,4.542809995,4.542809995
+"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Asia and the Pacific,0,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,35.34,35.83,35.83,35.62,35.62,35.15,35.15,35.15255259,35.14455723,35.14455723,35.14455723
+Heard Island and McDonald Islands,0,0,0,0,0,0,0,0,0,0,0,99.99,99.99,0,99.99,99.99,100,100,100,100,100,100
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,15.26,15.43,12.89,18.42,14.29,14.19,14.11,14.105128,14.10523859,14.10523859,14.10523859
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,4.17,6.64,34.95,34.96,35.58,33.64,34.1,34.72490323,34.73767996,34.93198525,34.96889408
+Haiti,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,ldc,0,sid,0,0,0.16,0.16,0.16,0.16,1.23,2.99,3.05,3.048697632,3.765097922,3.748974455,3.748974455
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2.19,16.31,15.37,15.47,15.39,13.53,14.37,14.40781908,14.35903969,14.36151765,14.36963819
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,11.36,11.61,11.53,8.49,8.7,8.63,8.63,8.62761624,8.6274514,8.62745768,8.572770339
+Isle of Man,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,0,0,0,0.3,2.55,2.59,2.59,2.59069385,2.590688068,2.590688068,2.590688068
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,1.14,1.14,1.17,1.19,1.19,1.17,1.17,1.17024944,0.190758271,0.190758271,0.190769699
+British Indian Ocean Territory,Asia,0,0,0,0,0,0,0,0,0,0,42.67,78.83,78.83,78.83,78.83,78.33,78.33,78.33324912,78.33319212,78.33319212,#N/A
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,0.5,8.77,8.78,8.79,8.81,8.58,8.6,8.59749205,8.598383527,8.598315643,8.713219698
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,1.64,1.64,1.64,1.64,2.13,2.12,2.12,2.121287648,2.120931885,2.120931885,2.12189663
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.32,0.32,0.32,0.56,1.1,1.09,1.09,1.091886648,1.091886658,1.091886658,1.091886658
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,5.7,17.05,14.54,14.56,15.22,16.49,16.49,16.8835193,17.12229706,17.3842974,17.38427605
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,13.35,13.3,14.12,14.12,14.2,14.07,18.27,18.26898972,18.2690835,18.26906425,19.36281709
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2.96,9.07,9.05,9.04,9.04,8.91,8.94,8.94793189,8.962482699,8.992483947,8.998584874
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,12.36,10.15,10.15,10.16,10.16,10.05,10.05,10.04776598,12.60551857,12.60551857,12.60551857
+Jersey,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,0,9.33,10.53,10.53,15.29,15.51,15.51,14.85388262,14.85385923,14.85385923,14.85385923
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.93,0.93,1,1,1.02,1.45,1.51,2.078586463,2.078632547,2.078632547,3.091573758
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,6.01,5.96,8.44,14.88,14.87,14.78,14.78,14.81268328,15.25096728,15.25097051,15.18270593
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0.57,0.85,0.85,0.85,0.85,0.85,0.85,3.850408625,3.849849374,3.849849374,3.850524649
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,5.44,5.47,5.35,5.35,5.55,5.4,5.41,5.419080571,5.408661382,5.408661382,5.40824059
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,3.58,3.58,3.58,3.58,3.63,3.53,3.53,3.529880698,3.52989073,3.52989073,3.52989073
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,10.35,12.18,12.06,12.06,12.06,11.61,11.75,28.53612654,28.53611951,28.53612663,28.53612049
+Kiribati,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,22.7,22.66,22.66,22.66,22.86,22.59,22.59,22.58633249,22.58904489,22.58904489,22.58904489
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,2.89,2.89,2.89,2.89,2.89,15.75,15.75,15.7368231,15.73678521,15.73678521,15.73678521
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,4.26,4.18,4.76,4.76,6.15,8.3,8.31,9.004582249,9.229483536,9.229366846,10.26059187
+Kuwait,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1.45,14.32,14.32,14.32,13.57,12.91,12.91,12.90630511,12.90630613,12.90630613,12.79042097
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,5.89,5.91,5.9,5.93,5.91,5.66,5.67,6.92876646,6.928770346,6.928770346,6.906201406
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.37,0.37,1.78,1.78,1.78,1.77,1.77,1.76678766,1.155237824,1.155237824,1.155237824
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,9.9,1.77,1.77,1.77,2.33,2.31,2.31,2.3086403,2.316891926,2.316891926,2.316881589
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.07,0.07,0.13,0.13,0.13,0.13,0.13,0.108341428,0.107884469,0.107884469,0.107884469
+Saint Lucia,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,15.67,15.86,15.86,17.51,17.51,17.38,17.38,17.38625355,17.38624987,17.38624987,17.38624987
+Liechtenstein,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,43.7,43.82,43.28,43.28,7.92,42.7,42.7,42.71122533,42.71120163,42.71120163,43.21069435
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,10.9,11.29,11.99,25.25,25.25,24.89,24.89,24.88248422,24.87850934,24.87850934,24.87850934
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0.23,0.23,0.24,0.24,0.24,0.24,0.24,0.32819418,0.328287443,0.327984747,23.42914415
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,1.5,9.96,10,10.03,10.06,10.15,10.16,10.18230198,10.52721484,10.52720496,11.42922891
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,22.94,36.98,32.46,16.56,39.44,47.18,47.3,47.46805408,47.57768801,53.57252101,36.3398281
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,10.3,10.2,10.63,10.63,10.62,10.09,10.56,10.29607434,10.29126393,10.29433975,10.38506161
+Saint Martin (French part),Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,0,7.48,0,0,0,0,0,0,0,0,0
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.74,0.83,15.55,17.96,17.93,17.82,17.82,1.049910038,23.42467327,23.42467327,18.08983199
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,2.05,2.18,2.18,2.18,2.18,2,2.06,2.060485982,5.850512234,5.850512234,6.095393461
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1.46,1.58,1.58,1.59,1.7,1.69,1.69,1.939711816,1.939710296,1.939710296,1.969877518
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,0,0,0,0.49,0.49,0.47,0.47,0.474798651,0.474780824,0.474780824,0.474780824
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,3.33,3.46,3.46,3.39,3.58,3.58,3.58,3.584460918,3.584461267,3.590809099,3.560613311
+Marshall Islands,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1.93,1.47,5.51,12.17,12.17,12.08,12.08,12.08399113,12.08369408,12.08369408,12.08369408
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,3.71,5.38,6.6,6.57,6.58,6.64,6.67,6.668695631,7.02001843,8.953957849,14.63988069
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,4.11,4.12,5.95,5.95,5.95,5.89,5.92,4.605341507,4.605381239,4.605381239,4.605381239
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,90.94,17.38,17.95,17.95,25.08,24.76,24.75,24.90138683,24.90061311,24.90702301,24.90825447
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,2.45,4.18,4.17,4.17,4.41,4.32,4.32,4.328517931,4.328517964,4.328517964,4.328518516
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,9.79,10.71,2.99,3,5.19,6.55,6.56,8.037570387,8.041934711,8.068341333,17.16015057
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,4.2,4.2,4.52,4.6,4.62,4.61,4.61,6.128977776,6.128888256,6.128888256,6.128888256
+Northern Mariana Islands,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0.67,22.62,3.18,7.15,7.15,7.11,7.11,7.099293819,7.099281886,7.099281886,2.073192528
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,7.33,7.48,7.33,7.68,8.88,8.8,8.82,12.61143637,12.61099137,12.61099137,12.61302511
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0.52,0.52,0.54,0.54,0.54,0.53,0.53,0.532634726,0.5326336,0.5326336,0.5326336
+Montserrat,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,9.52,9.52,9.52,9.52,10.99,10.93,10.93,10.933522,10.933522,10.933522,10.933522
+Martinique,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,49.9,49.85,59.7,60.07,63.28,99.99,99.99,62.46228107,62.45872536,62.45871635,62.47875083
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,3.4,3.39,3.37,3.44,3.44,3.4,3.4,3.395814318,3.39635539,3.39635539,3.39635539
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,6.35,6.35,6.35,6.35,11.4,10.45,10.86,10.867236,10.84721335,10.84721335,11.06642171
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,10.65,10.64,10.64,10.64,10.63,10.11,10.13,8.120508443,8.120338859,8.120346661,8.12024322
+Mayotte,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,1.91,3.12,2.62,2.62,3.05,6.21,6.21,4.560643633,4.554967237,9.989321382,9.984697316
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,9.63,35.77,28.08,28.08,28.08,27.39,27.39,27.38979363,27.3897936,27.3897936,28.7026551
+New Caledonia,Oceania,Melanesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,32.14,39.43,39.44,40.33,40.32,49.09,56.08,56.06438123,55.88539609,55.88539609,46.88542722
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,6.72,6.72,14.92,14.92,14.92,14.83,14.83,14.88432566,14.88407336,14.88407336,14.88407336
+Norfolk Island,Oceania,Australia and New Zealand,0,0,dl,0,0,0,0,0,0,17.08,17.11,0,48.88,17.47,17.27,16.93,16.93374779,16.78471498,16.78471498,16.87443154
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2.43,2.43,2.47,2.47,2.47,2.45,2.45,2.448367045,2.445749639,2.445749639,2.44628111
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,21.36,21.36,21.37,21.48,21.36,21.22,21.22,9.569257688,9.568638533,9.568605781,9.568632803
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,22.38,10.51,10.51,10.51,21.62,22.04,22.04,22.03593868,22.03593868,22.03593868,22.03593868
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,7.9,10.18,6.99,6.73,6.62,16.5,16.85,16.77581619,16.7801672,16.98108401,16.20910938
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,5.15,6.61,6.75,6.76,6.77,5.44,5.55,6.398048323,21.08684903,21.92933072,6.635723956
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,11.13,11.14,14.64,14.64,10.93,10.88,10.89,10.88917431,10.87812922,10.87812922,10.87812922
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,22.96,22.96,28.19,28.2,28.2,28.37,28.37,28.70505434,28.69837771,28.70492518,28.70406389
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,9.15,9.15,9.15,1.71,1.71,1.7,1.7,1.701883797,1.798855652,1.798855652,9.713629282
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,5.19,5.19,5.19,5.19,5.18,5.16,5.16,4.606897981,4.605637702,4.605637702,6.330460232
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,10.64,10.84,10.84,10.84,10.84,10.77,10.77,16.45637149,16.17180821,16.17180821,16.17180928
+Pitcairn,Oceania,Polynesia,0,0,dl,0,0,0,0,0,Oceania excluding Australia and New Zealand,58.44,0,0,58.44,58.44,58.08,58.08,58.07984713,58.27829655,58.27829655,58.27829655
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,7.49,9.03,18.74,18.74,10.08,8.28,8.3,8.306715683,8.36005865,8.474158764,8.460969263
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,9.38,9.38,9.4,12.39,12.39,12.35,12.35,12.34637718,13.54439483,13.54439523,13.54439523
+Palau,Oceania,Micronesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,2.54,5.84,9.01,20.1,19.88,17.65,17.66,17.52917673,17.5277524,17.5277524,17.52874429
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,1.8,1.81,1.81,1.81,1.81,1.79,1.86,1.862247221,1.862247231,1.862247231,1.862247231
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,4.71,23.09,23.39,37.84,37.86,37.53,37.7,37.49730161,37.49532956,37.51828439,37.53852576
+Puerto Rico,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,sid,0,0,4.37,4.35,4.35,3.76,3.76,3.71,3.71,3.698053043,3.757428957,3.757433409,3.344394997
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,1.23,1.23,1.23,1.23,1.23,1.23,1.23,1.227794296,1.226057025,1.226057025,1.226065181
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,2.62,14.69,14.05,15.06,15.39,10.58,12.15,12.13728313,12.13750697,12.13752729,12.14133258
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,3.16,3.16,3.16,3.16,3.51,11.48,11.48,11.47954724,11.4795524,11.47954724,11.47957217
+Occupied Palestinian Territory,Asia,Western Asia,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,0,0,0,0,5.01,4.85,4.89,4.890120788,4.890120788,4.890120788,7.041141551
+French Polynesia,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0.36,0.89,1.71,1.71,1.71,1.67,1.67,1.67199549,1.671293999,1.671293999,1.671293999
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.51,1.84,1.84,1.83,11.77,11.72,11.72,12.23532305,12.23568156,12.23568156,12.23568156
+Reunion,Africa,Eastern Africa,Sub-Saharan Africa,0,dl,0,0,0,0,0,0,13.08,77.32,77.32,77.32,63.56,63.19,63.19,63.1689649,63.23942281,63.23772235,67.61479756
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,4.39,11.49,17.19,16.98,17.12,15.61,15.89,15.89048268,15.96887881,15.96989269,16.3583454
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1.31,1.86,1.47,1.5,1.5,1.51,1.51,1.936122215,1.933799247,1.933800293,1.927829335
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,6.15,6.13,5.81,5.73,5.75,5.71,5.71,5.708443873,5.708443873,5.708443873,5.722507327
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,23.92,23.92,23.92,1.7,1.74,1.74,1.74,1.736308756,1.736308751,1.736308751,12.24549909
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,8.49,4.8,1.15,1.15,1.17,1.17,1.17,1.165884101,1.161683035,1.161683035,1.161683035
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,14.89,14.89,14.89,14.89,14.89,14.8,14.8,14.80077951,14.97715689,14.97715689,14.97715689
+Singapore,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Eastern Asia and South-eastern Asia,5.08,5.08,5.46,5.46,5.46,5.47,5.47,5.461543517,5.461535408,5.461535408,5.461535408
+South Georgia and the South Sandwich Islands,0,0,0,0,0,0,0,0,0,0,0,1.07,99.83,99.83,99.83,99.83,5.75,5.75,5.748961893,5.748959101,5.748959101,5.748959101
+"Saint Helena, Ascension and Tristan da Cunha",0,0,0,0,0,0,0,0,0,0,0,19.91,27.93,27.93,24.47,24.47,24.34,24.34,24.34439187,24.34439089,24.34439089,24.34439089
+Svalbard and Jan Mayen,0,0,0,0,0,0,0,0,0,0,0,47.94,47.08,47.67,47.67,47.67,47.98,47.98,47.39311358,2.754854315,2.759456814,50.26833051
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,0.68,1.93,1.93,1.93,1.93,1.47,1.47,1.520068069,1.682953324,1.702357024,1.619685465
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,3.89,3.98,4.22,4.22,4.26,4.19,4.19,4.194651122,4.763670724,4.763670724,4.763670724
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,2.16,5.34,5.34,5.36,5.36,5.32,5.33,5.227750627,5.227671048,5.227748724,5.227747285
+Somalia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0.6,0.6,0.6,0.6,0,0,0,0,0,0,0
+Saint Pierre and Miquelon,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,23,23,5.43,5.43,5.58,5.49,5.49,5.523106613,5.522763366,5.712622033,5.712278786
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,2.69,2.63,2.81,2.69,2.79,2.62,2.81,2.819826402,2.820074991,2.858566995,4.823952539
+South Sudan,Africa,Eastern Africa,Sub-Saharan Africa,nation,0,0,ldc,0,0,0,0,0,5.6,11.23,6.65,6.65,6.61,6.61,6.609764156,6.609764156,6.609764156,6.609764156
+Sao Tome and Principe,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,0,0,0,31.42,31.42,31.2,31.2,31.20058232,31.2005903,31.2005903,31.2005903
+Suriname,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,sid,0,0,11.35,11.35,11.35,11.35,11.35,11.27,11.27,11.26680235,11.26680226,11.26680226,11.26680226
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,16.14,32.42,31.55,32.24,33.02,27.72,28.11,28.11479349,28.11601723,28.11744492,28.9390201
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,6.04,51.77,52.39,52.39,52.82,51.87,51.96,37.06979872,37.13817156,37.13728454,37.14427432
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,6.89,8.93,9.12,9.24,9.14,8.38,8.4,8.427904965,7.933869399,9.620591409,9.692110087
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,2.12,2.12,2.64,2.64,2.69,2.68,2.68,2.679848929,2.885774538,2.885774538,2.885694467
+Seychelles,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,34.35,35.75,37.12,37.12,37.12,43.6,43.67,60.18326927,60.18592692,60.18592692,60.31083395
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.381619266,0.381968995,0.381968995,0.381968995
+Turks and Caicos Islands,Americas,Latin America and the Caribbean,Caribbean,0,dl,0,0,0,0,0,0,24.34,24.34,24.34,24.34,24.34,24.11,24.11,24.11151478,24.11152575,24.11152575,24.11152575
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,9.27,9.27,10.01,9.99,10.41,10.11,10.6,10.59608056,10.58177746,10.58177746,10.55396915
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,15.58,15.58,15.45,15.45,15.45,15.29,15.3,15.36822061,15.31499299,15.31499299,15.31499299
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,7.16,6.17,6.12,6.12,6.12,6.08,6.08,6.097474615,6.097491929,6.097498025,6.12563953
+Tajikistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,2.77,2.77,19.52,19.52,19.52,19.49,19.49,19.48784025,19.48791056,19.48791056,19.49248096
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,1.57,1.61,1.61,1.61,1.61,1.61,1.61,1.606312797,1.605716544,1.605716544,2.385922989
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,2.82,2.82,5.83,7.06,7.06,9.39,9.39,9.386114126,9.390469152,9.390469152,9.390469152
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,13.36,14.11,14.11,14.11,14.11,10.33,10.33,10.32800587,10.32799225,10.32799225,10.32799225
+Trinidad and Tobago,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,27.28,27.28,27.28,26.12,26.12,25.86,25.86,25.86590512,25.86563278,25.86563278,25.86563278
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,3.81,3.86,3.86,3.86,4.04,4.03,4.03,4.03500464,4.035021566,4.035021566,4.035028959
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,0.42,0.42,0.07,0.07,0.07,0.07,0.07,0.0678571,0.067856328,0.067856328,0.067856328
+Tuvalu,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,0,13.48,13.48,13.48,13.48,39.25,39.25,36.84314221,37.00666989,37.00666989,37.00666989
+"Taiwan, Province of China",0,0,0,0,0,0,0,0,0,0,0,6.25,6.25,6.25,18.61,18.61,18.53,18.53,18.52997603,18.52999869,18.52999869,18.52997637
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,16.36,17.28,17.9,17.9,21.55,21.19,21.21,21.20836633,21.29406321,21.29406321,22.37694119
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,5.33,5.55,6.65,6.66,6.66,6.42,6.43,6.425479514,6.425275623,6.425275623,6.425275623
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0.88,0.88,0.9,0.9,0.91,0.86,0.88,0.981247798,5.902717879,5.902721262,8.668008813
+United States Minor Outlying Islands,0,0,0,0,0,0,0,0,0,0,0,54.33,100,100,100,100,96.79,96.79,93.73332858,96.79109507,96.79109507,98.39948449
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,2.12,2.15,2.15,2.15,2.5,2.49,2.51,2.521671056,2.521732647,2.521733993,2.521735395
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,8.4,8.45,8.47,7.49,7.49,7.36,7.1,5.749155762,6.65144356,6.651452075,6.562327744
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,1.96,1.96,1.96,1.96,1.96,1.95,1.95,2.451020593,2.448668195,2.448668195,4.013456341
+Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,10.31,10.31,19.74,19.74,19.74,19.54,19.54,19.54200181,19.54198171,19.54198171,19.54198171
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,37.03,37.03,37.03,37.03,37.03,34.19,34.19,34.68944303,34.68955188,34.68955188,34.68944294
+Virgin Islands (British),0,0,0,0,0,0,0,0,0,0,0,4.29,4.29,8.24,8.24,7.9,7.89,7.89,7.892501449,7.892455193,7.892455193,7.892455193
+Virgin Islands (U.S.),0,0,0,0,0,0,0,0,0,0,0,14.14,13.79,13.79,11.05,11.05,10.96,10.96,10.80009825,11.40035341,11.40026874,11.37715362
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,1.79,1.82,1.82,1.87,1.87,1.6,1.64,1.655834454,1.655799382,1.655808581,1.629897853
+Vanuatu,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,3.81,3.76,3.76,3.76,3.76,3.72,3.72,3.721275762,3.721206357,3.721206357,3.721206357
+Samoa,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,3.06,4.99,4.99,4.99,5.72,5.6,5.49,5.489348084,5.490523947,5.490523947,5.490523947
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,0.8,0.77,0.77,0.77,0.77,0.76,0.76,0.763789187,0.763119968,0.763119968,1.090910939
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,2.52,2.55,3.61,6.27,2.47,2.46,2.49,2.507136322,2.523139429,2.70125558,7.60215572
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,16.34,16.32,16.32,16.32,16.28,14.94,19.4,19.39557939,19.39182416,19.39182416,19.50232419
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,20.89,20.88,19.75,19.92,19.77,19.63,19.65,19.6607887,19.66088429,19.66088429,19.93956724

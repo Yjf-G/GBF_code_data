@@ -1,0 +1,8 @@
+stat,value
+median_hist_years,25
+q25_hist_years,15.75
+q75_hist_years,25
+min_hist_years,14
+n_series_lt15y,6
+n_series_lt10y,0
+n_total,44

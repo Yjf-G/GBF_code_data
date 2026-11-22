@@ -1,0 +1,190 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+Africa,Africa,0,0,0,dl,0,0,0,0,0,0,25,29,30,39,NaN,34,34,31,27,21,20,21,23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Albania,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,48,45,30,28,30,27,21,21,21,21,8,8,80,56,56,56,56,56,56,56,56,56,25,NaN,NaN,NaN
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,NaN,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100,100,100,100
+Americas,Americas,0,0,0,0,0,0,0,0,0,0,55,57,59,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Antigua and Barbuda,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,25,25,25,25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,33,25,25,20,17,25,50,50,50
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Asia,Asia,0,0,0,0,0,0,0,0,0,0,31,29,26,24,22,20,23,21,20,21,22,23,24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,85,85,90,83,71,88,86,86,86,78,78,78,78,78,83,83,83,83,83,100,NaN,100,87,87,87,87
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,90,90,94,83,71,88,86,86,86,78,78,78,78,78,83,83,83,83,83,100,NaN,100,88,91,91,91
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100,100,100,100,100,100,100,100,100,100,100,100,100,95,95,95,95,91,91,86,86,86,86,86,86,86
+Azerbaijan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,0,0,NaN,NaN,80,80,80,80,80,80,80,80,80,80,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,NaN,NaN,NaN,25,40,40,40,40,40,40,40,40,40,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,83,83,83,83,100,100,100,100,100,100,100,100,93,96,96,96,94,94,96,96,96,96,96,100,100,100
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bermuda,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Bhutan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,0,0,0,0,0,0,0,30,33,29,27,27,30,30,30,30,30,30,52,52,52,52,52,52,52,52
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,100,60,33,0,0,0,0,0,14,13,11,14,14,17,17,17,17,17,0,0,NaN,NaN,NaN,NaN,NaN,NaN
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,0,NaN,NaN,25,25,25,25,25,25,25,25,25,25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,25,25,25,25,0,0,0,0,0,NaN,NaN,50,75,75,75,75,75,75,75,75,75,100,100,100,100,100
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,45,50,0,50,67,67,67,67,67,67,67,75,75,100,100,100,100,50,50,50,44,50,68,64,64,64
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,100,100,88,88,67,67,67,67,67,90,88,92,92,91,81,86,92,82,79,80,81,81,80,80,80,79
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,40,40,40,40,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Burundi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,13,14,14,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cameroon,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,25,25,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,78,90,90,89,100,100,100,100,79,100,64,85,62,67,83,67,69,82,82,77,86,90,71,71,71,71
+Central America,Americas,Latin America and the Caribbean,Central America,0,dl,0,0,0,0,0,0,29,33,50,45,50,56,56,56,56,56,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,24,16,12,9,12,11,12,12,13,14,18,20,19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Central Asia,Asia,Central Asia,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,10,9,9,9,9,9,9,9,9,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,47,47,47,48,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,14,13,7,7,28,28,17,17,11,11,11,12,12,12,13
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,31,30,31,26,13,12,21,21,21,21,21,21,21,22,22,25,20,17,14,11,11,25,25,25,25,25
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,53,53,50,47,47,45,45,45,45,33,33,33,25,33,33,33,33,33,26,26,26,26,26,26,29,29
+Comoros,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cook Islands,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,50,50,50,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,78,78,78,82,71,60,64,64,76,72,72,72,72,73,73,76,81,81,78,79,77,77,77,80,80,80
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,43,43,43,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,50,50,50,100,42,38,46,46,46,46,46,46,46,42,80,80,67,50,100,100,100,100,100,100,100,100
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,80,80,80,94,80,84,84,81,85,85,85,81,81,84,84,84,84,85,85,85,89,93,95,95,95,95
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,83,83,83,83,94,95,95,95,100,100,100,100,62,94,68,87,95,85,98,91,91,93,96,98,96,96
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,44,44,44
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0
+Eastern Africa,Africa,Eastern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,20,29,29,30,28,28,28,23,21,25,24,18,18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Eastern and South-Eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,31,31,28,26,24,22,24,23,22,23,24,24,25,27,28,30,32,33,33,35,38,29,28,28,32,32
+Eastern Asia,Asia,Eastern Asia,0,0,0,0,0,0,0,0,0,36,36,35,31,24,20,24,24,24,25,25,26,28,29,30,34,43,43,48,46,48,28,28,28,32,31
+Eastern Europe,Europe,Eastern Europe,0,0,0,0,0,0,0,0,0,80,76,75,57,57,55,59,61,65,67,70,70,71,82,80,82,85,82,82,79,76,76,77,75,75,75
+Ecuador,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,20,20,17,25,33,33,33,50,40,40,40,40,50,50,50,50,50,0,29,29,29,29,29,29,29,25
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,6,6,4,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Estonia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,70,70,70,70,60,60,60,67,67,67,67,67,67,67,67,67,67,100,100,100,100,100,100,100,100,100
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,0,0,0,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,0,0,13,13,9,5,7,7,7,7,7,7,0,0,0,50,50,25,25,25,25,25,25
+Europe,Europe,0,0,0,0,0,0,0,0,0,0,75,76,76,73,75,76,77,78,79,79,79,80,80,84,83,84,85,84,85,84,82,82,83,83,83,83
+Europe and Northern America,0,0,0,0,0,0,0,0,0,0,0,76,76,77,73,75,77,78,79,79,80,79,80,80,84,83,84,85,84,85,84,83,83,83,83,83,83
+Falkland Islands (Malvinas),Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,67,67,67,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Faroe Islands,Europe,Northern Europe,Northern America and Europe,0,0,dd,0,0,0,0,Europe and Central Asia,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,50,50,50,50,50,50,50,50,50
+Fiji,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,56,60,60,60,90,90,90,90,90,81,88,83,83,83,83,83,83,83,82,80,76,80,80,76,79,79
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,50,56,56,56,56,72,72,72,69,69,69,89,89,90,78,79,79,79,78,78,78,77,83,82,86,86
+French Guiana,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Georgia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,82,83,82,83,82,84,84,84,86,86,86,86,86,88,88,88,90,90,91,89,88,88,88,89,89,89
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,27,27,27,50,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,79,65,69,69,69,73,70,68,71,70,70,74,70,73,72,68,68,73,73,68,64,61,61,62,62,62
+Greenland,Americas,Northern America,Northern America and Europe,0,0,dd,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Guam,Oceania,Micronesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,50,50,50,50,50,50,50,50,50,50,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,33,33,17,17,17,17
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,70,71,65,67,74,73,74,76,79,77,80,80,85,87,88,87,89,80,81,68,57,57,55,55,55,55
+Iceland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,33,33,33,33,33,33,33,33,33,33,33,50,50,50,50,33,50,50,33,50,50,50,50,33,50,50
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,67,20,20,20,0,0,14,9,9,15,13,27,15,11,11,12,13,13,13,12,12,11,14,14,14,13
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,25,25,20,20,20,20,19,4,4,4,6,8,10,13,14,14,16,16,21,24,27,36,42,41,42,50
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,12,12,12,21,21,21,21,13,13,13,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100,100,18,20,20
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,55,55,55,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,62,62,62,69,82,82,90,91,91,92,92,89,80,83,83,83,83,84,83,83,83,77,100,100,100,100
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,85,89,87,88,89,88,88,89,87,87,82,86,87,86,87,87,87,87,93,90,90,89,91,91,91,90
+Jamaica,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,NaN,NaN,NaN,NaN,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,60,62,62,60,60,57,58,63,58,70,70,68,68,67,63,63,75,75,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,0,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,100,100,100,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,0,0,14,13,13,13,13,13,13,13,13,13,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Landlocked developing countries (LLDCs),0,0,0,0,0,0,0,0,0,0,0,24,24,25,26,19,18,19,19,18,20,20,20,23,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lao People's Democratic Republic,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,0,Eastern Asia and South-eastern Asia,8,8,8,8,25,25,50,50,33,33,33,33,33,33,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,NaN,42,39,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,50,50,50,50,33,33,33,33,33,33,33,33,33,86,86,86,86,86,86,86,89,89,89,89,89,89
+Least Developed Countries (LDCs),0,0,0,0,0,0,0,0,0,0,0,18,22,24,25,NaN,24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Lesotho,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,0,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,55,67,67,54,50,50,50,50,50,50,55,50,50,NaN,NaN,NaN,100,92,94,94,74,83,86,91,91,91
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,22,22,22,30,33,33,33,33,33,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,42,42,42,45,45,45,50,50,55,55,62,62,62,62,62,58,67,64,50,56,43,43,43,43,43,43
+Maldives,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,sid,Central Asia and Southern Asia,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,17,17,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0
+Mauritius,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,sid,0,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Melanesia,Oceania,Melanesia,0,0,0,0,0,0,0,0,0,25,29,33,50,50,43,43,43,43,43,50,50,33,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,50,100,67,60,60,60,60,60,60,60,70,70,80,80,60,60,50,50,50,50,0,0,0,50,50,50
+Mongolia,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,llc,0,0,Eastern Asia and South-eastern Asia,11,13,19,20,20,17,17,13,13,13,13,13,0,0,0,0,0,31,31,27,27,27,28,28,28,28
+Montenegro,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,50,67,100,89,80,80,80,80,82,83,83,83,83,92,92,92,92,92
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,9,9,9,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,100,25,38,38,42,42,42,42,42
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,33,33,50,50,50,50,50,50,50,50,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,24,21,21,21,17,50,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100,63,63,64,64,64,64,64,64,64,64,100,100
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,92,96,97,95,95,95,95,93,94,94,94,95,96,95,96,96,96,96,96,95,95,96,92,93,96,96
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,100,96,96
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,NaN,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0,25,25,15,15,15,15,15,15,15,15
+Niue,Oceania,Polynesia,0,0,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+North Macedonia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,33,33,33,33,33,33,33,33,33,33,33,33,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Northern Africa,Africa,Northern Africa,0,0,0,0,0,0,0,0,0,4,7,6,10,17,15,17,20,20,18,17,17,17,13,14,NaN,NaN,10,18,26,26,28,28,28,28,28
+Northern Africa and Western Asia,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,35,27,24,27,29,21,21,21,23,25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Northern America,Americas,Northern America,0,0,0,dd,0,0,0,0,0,83,84,86,86,93,93,94,95,91,95,90,94,90,90,92,88,88,88,88,87,88,89,85,85,83,82
+Northern Europe,Europe,Northern Europe,0,0,0,0,0,0,0,0,0,75,76,81,81,85,85,85,86,87,87,89,89,82,88,85,86,88,87,89,88,87,88,88,88,89,89
+Norway,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,78,78,78,79,78,78,77,77,80,80,97,92,90,89,89,89,87,89,89,89,89,89,87,86,87,87
+Oceania,Oceania,0,0,0,0,0,0,0,0,0,0,NaN,NaN,69,NaN,55,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Oceania (exc. Australia and New Zealand),0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,46,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,25,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,86,86,86,86,86,86,86,86
+Papua New Guinea,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,25,33,0,33,33,33,33,33,33,33,50,50,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,100,100,NaN,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,100,100,50,50,100,50,100,100,100
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,17,17,17,0,0,33,33,33,33,33,33,33,40,80,80,80,80,80,80,80,80,75,100,NaN,100,100
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,50,44,17,20,20,20,20,20,20,20,20,20,20,NaN,NaN,NaN,0,0,0,50,50,50,50,38,38,38
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,68,69,68,68,70,68,91,90,94,93,94,93,91,84,84,84,87,87,88,87,86,86,86,85,85,83
+Polynesia,Oceania,Polynesia,0,0,0,0,0,0,0,0,0,NaN,NaN,40,40,40,40,40,40,40,40,40,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,54,54,54,54,69,72,72,72,72,72,58,58,58,64,64,64,65,59,59,63,61,61,63,63,61,61
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,75,50,0,0,0,33,50,50,60,67,75,90,93,94,86,87,87,88,88,89,89,86,85,88,96,94
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,43,43,70,70,83,83,83,83,83,83,80,80,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Romania,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,96,96,96,69,69,69,80,80,80,80,89,89,89,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,100,100,100,25,24,24,24,24,24,24,24,24,24,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,65,65,74
+Rwanda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,0,0,20,18,15,15
+Saint Kitts and Nevis,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,27,27,30,30,30,30
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,100,100,100,100,90,90,90,90,90,90,90,90,100,100,100,100,100,100,100,100,100,92,90,91,82,92
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,83,83,83,78,86,83,83,95,95,95,95,90,95,86,86,86,91,83,84,84,84,84,84,84,84,84
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,25,50,50,67,77,82,88,88,88,88,88,92,92,92,93,96,100,97,100,100,97,97,96,92,88,88
+Small island developing States (SIDS),0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Solomon Islands,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,50,50,50,50,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,96,96,100,100,100,100,100,100,100,100,100,83,83,80,80,80,80,86,86,86,86,67,78,78,83,81
+South America,Americas,Latin America and the Caribbean,South America,0,dl,0,0,0,0,0,0,40,40,30,34,44,44,44,46,43,38,32,38,37,36,30,38,38,39,37,36,35,37,40,45,46,46
+South-Eastern Asia,Asia,South-Eastern Asia,0,0,0,0,0,0,0,0,0,28,27,22,21,23,24,25,16,16,15,19,19,20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Southern Africa,Africa,Southern Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,64,64,65,87,92,96,96,96,95,100,100,85,87,82,68,67,68,69,69,69,69,67,63,63,74,74
+Southern Asia,Asia,Southern Asia,0,0,0,0,0,0,0,0,0,23,14,7,8,13,13,13,13,14,15,20,22,20,14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Southern Europe,Europe,Southern Europe,0,0,0,0,0,0,0,0,0,74,74,73,72,75,76,76,77,76,77,72,73,76,77,77,77,77,76,79,79,78,78,79,80,79,79
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,77,73,73,73,73,73,72,76,72,75,69,68,68,69,68,68,66,64,64,66,66,66,67,68,70,70
+Sri Lanka,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,75,67,0,0,0,0,0,0,0,0,36,36,40,40,40,40,40,40,40,40,NaN,NaN,NaN,67,56,56
+Occupied Palestinian Territory,Asia,Western Asia,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,50,50,50,50,50
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,35,36,38,43,NaN,36,NaN,32,28,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,16,16,16,16,16,16,16,16
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,77,77,80,81,97,97,97,97,98,98,98,98,96,96,96,96,94,93,96,94,94,94,92,90,90,90
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,67,68,68,68,68,68,68,65,70,65,67,67,65,65,70,70,65,70,76,72,71,71,70,69,69,69
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,25,50,50,33,33,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tajikistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,20,18,18,8,17,8,8,8,6,6,6,6,6,13,13,13,13,13,13,13,13,13,13,13,13,13
+Togo,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,25,25,25,25,25,25,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tonga,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,0,0,sid,0,Oceania excluding Australia and New Zealand,NaN,100,100,100,100,100,100,100,100,100,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,0,50,50,50,33,33,33,33,33,25,20,20,20,20,20,20,20,20,20,33,17,17,20,20,20,20
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,33,33,33,50,44,44,44,44,0,0,0,25,32,43,43,43,43,43,43,43,43,42,53,25,28,28
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,NaN,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Tuvalu,Oceania,Polynesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,86,33,36,61,59,53,50,46,53,51,54,54,56,57,62,64,63,71,74,71,73,77,78,78,78,78
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,87,87,88,88,88,88,89,90,91,91,91,91,88,88,88,87,88,88,88,88,88,87,88,87,88,89
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,75,89,89,89,100,100,100,100,37,37,37,24,24,7,7,7,7,7,18,18,18,18,18,19,19,19
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,85,82,85,86,93,93,94,94,94,94,96,96,96,95,94,92,92,90,91,91,89,88,90,90,88,89
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,50,50,50,50,67,67,67,67,67,67,67,75,75,75,50,67,67,80,86,86,86,86,75,78,78,78
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,NaN,NaN,NaN,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,0
+Vanuatu,Oceania,Melanesia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Oceania excluding Australia and New Zealand,0,0,40,67,67,67,67,67,67,67,67,67,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,37,38,30,27,27,30,30,11,11,11,21,21,22,22,22,21,21,21,21,21,20,20,20,20,20,20
+Western Africa,Africa,Western Africa,Sub-Saharan Africa,0,0,0,0,0,0,0,0,17,16,NaN,16,NaN,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Western Asia,Asia,Western Asia,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Western Europe,Europe,Western Europe,0,0,0,0,0,0,0,0,0,74,78,78,78,79,83,83,83,85,84,84,87,87,89,88,88,89,89,89,88,87,87,88,87,89,89
+World,0,0,0,0,0,0,0,0,0,0,global,60,62,63,62,64,64,63,64,63,64,63,64,64,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,NaN,NaN,NaN,NaN,50,50,50,50,50,50,50,50,50,50,NaN,NaN,NaN,NaN,NaN,0,0,6,6,6,6,6
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,0,0,0,0,0,0,0,0,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,50,50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

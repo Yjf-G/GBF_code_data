@@ -1,0 +1,143 @@
+GeoAreaName,Continent,Subcontinent,Region,GeoAreaType,Developing_regions,Developed_regions,Least_dpe,Landlocked_dpi,Small_island_dpi,group1,group2,1990,2000,2010,2020
+Afghanistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,19.17887795,5.884605243,2.452296451,1.642910262
+Algeria,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,12.53478078,9.736399947,7.787100586,7.582903631
+Angola,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,54.35188876,20.6028058,8.730761795,4.591939564
+Argentina,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,75.51034093,53.08622797,35.36214709,26.52345353
+Armenia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,35.45190487,27.6978798,27.27154248,31.66337956
+Australia,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,92.02355501,84.50253172,79.93183064,74.08383905
+Australia and New Zealand,Oceania,Australia and NewZealand,0,0,0,0,0,0,0,0,0,81.02528774,64.90174107,59.27062046,47.56747407
+Austria,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,67.99348158,69.77238071,64.3852548,62.96038538
+Azerbaijan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,llc,0,0,0,7.093539421,5.456866648,4.430372776,4.358927691
+Bahrain,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,35.06511237,32.70194719,11.27150758,10.4510505
+Bangladesh,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,Central Asia and Southern Asia,0,21.0258419,15.91666635,13.07994548,11.66700078
+Belarus,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,45.0699972,35.94549007,30.41437047,20.55139748
+Belgium,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,71.49166629,75.1172207,81.94157954,77.63352645
+Belize,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,sid,0,0,973.9287462,319.1389404,154.6272516,121.5999159
+Benin,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,39.92900772,35.86436621,22.4440259,13.82691015
+Bolivia (Plurinational State of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,6.173334696,4.289245576,3.652767769,2.486969962
+Bosnia and Herzegovina,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,68.02150288,68.54876537,77.49652872,88.77469333
+Botswana,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,11.94714716,12.55220296,5.739729208,6.371704291
+Brazil,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,123.7728802,59.76336896,42.42916694,35.82469364
+Bulgaria,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,24.59611537,23.81970369,28.46351175,38.51080943
+Burkina Faso,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,26.54533613,4.14376002,3.719150346,2.205234029
+Cambodia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,166.5203356,68.05768465,43.17365331,21.14410009
+Canada,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,131.578695,106.0385281,84.14171283,70.05033981
+Central African Republic,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,136.6202891,104.6660582,67.33256564,37.81869204
+Central and Southern Asia,Asia,0,central and southern asia,0,0,0,0,0,0,0,0,24.27560832,15.63730912,9.874332758,7.700599586
+Chad,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,11.37447757,4.915169777,4.606253858,3.026028048
+Chile,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,75.72949567,46.63367719,23.37140417,12.00989286
+China,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,201.0541839,102.5251276,62.4426561,43.88593956
+Colombia,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,OECD,0,41.7377393,28.13503843,18.31987554,19.18123573
+Costa Rica,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,130.4488753,93.99359596,62.20970366,35.99515272
+Cote d'Ivoire,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,86.98356707,52.16599325,36.09382748,20.8993704
+Croatia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,63.15818787,67.65182249,61.4063135,84.67908534
+Cuba,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,10.56762421,10.76506366,10.44831943,15.77968672
+Cyprus,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,6.965266308,7.123704431,6.818726557,11.9280093
+Czech Republic,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,104.759874,111.7149881,101.775646,111.5091903
+Democratic People's Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,1.318495797,1.218440487,1.263025272,1.194199486
+Democratic Republic of the Congo,Africa,Middle Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,274.6385342,163.9962065,71.96422097,28.29346384
+Denmark,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,205.5811405,184.2670087,171.8293487,157.0960691
+Djibouti,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,3.196029905,1.634875514,0.672531007,1.025618051
+Dominican Republic,Americas,Latin America and the Caribbean,Caribbean,nation,dl,0,0,0,sid,0,0,128.7044672,69.64948627,43.71338892,24.40104386
+Eastern and South-eastern Asia,Asia,0,eastern and south-eastern asia,0,0,0,0,0,0,0,0,84.73953484,63.17991704,42.05089038,33.59996586
+Egypt,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,29.61447892,22.16145398,21.7866112,20.12601458
+El Salvador,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,45.99222233,44.68630063,61.48194831,69.65431756
+Eritrea,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,1.815724692,6.113641879,7.491873079,10.23436563
+Eswatini,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,138.829356,120.0924756,90.795306,99.28889873
+Ethiopia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,11.66840402,7.662148678,5.297200691,5.941597852
+Finland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,164.8021491,148.7042741,122.632778,118.6720967
+France,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,47.43168249,55.01124079,57.8485222,65.63493387
+Germany,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,75.09600567,72.02813112,65.49694785,63.44682
+Ghana,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,85.90274768,30.90011304,11.69005832,7.038103428
+Global Average,0,0,0,0,0,0,0,0,0,0,0,66.8607079,49.27367704,36.23781863,30.58962273
+Greece,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,15.31034893,15.86016107,17.99097886,25.99043624
+Guatemala,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,86.83448418,67.34504812,51.11368022,35.297839
+Guinea,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,170.7783716,69.21192015,40.82773365,15.57370404
+Guinea-Bissau,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,sid,0,0,193.3709023,75.61618604,39.95823985,11.71476914
+Honduras,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,106.2464292,56.5706502,38.20963816,22.86786468
+Hungary,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,100.0857669,93.49514323,92.69810733,87.85906172
+India,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,25.2169121,18.46590735,13.84245078,10.97531539
+Indonesia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,119.5717828,77.75665178,54.09574676,35.82900775
+Iran (Islamic Republic of),Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,29.22533108,19.10077153,11.48728832,10.21569321
+Iraq,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,24.07827881,14.41656383,8.285028054,4.839377617
+Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,102.2443523,81.59494247,62.46738089,61.50300119
+Israel,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,20.14744888,8.371218396,3.187360476,4.00129843
+Italy,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,27.12310876,24.73429459,26.78752158,28.71361283
+Japan,Asia,Eastern Asia,Asia and the Pacific,nation,0,dd,0,0,0,OECD,Eastern Asia and South-eastern Asia,40.21768513,32.55742018,33.37223513,40.07364097
+Jordan,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,4.782938222,3.833499602,3.593278044,3.456887017
+Kazakhstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,23.82634612,20.58687979,11.98323242,9.233128569
+Kenya,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,28.52200108,11.73660702,11.95782863,12.60259686
+Kuwait,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,1.663158993,1.52587972,0.588107842,0.876497579
+Kyrgyzstan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,64.42180275,43.24830901,30.4600765,23.76863746
+Latin America and the Caribbean,Americas,Latin America and the Caribbean,0,0,dl,0,0,0,0,0,0,58.28671549,38.5324841,28.95233809,23.65658999
+Latvia,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,37.0326928,26.75131539,37.6691676,28.34281288
+Lebanon,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,29.12611872,17.51798525,16.17477236,10.91795636
+Liberia,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,131.5846884,140.827943,76.0390668,48.03163182
+Libya,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,72.33845822,52.33455554,16.16235908,10.63974387
+Lithuania,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,101.4759754,95.28239931,101.8506434,76.58932743
+Luxembourg,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,113.2220339,118.1741037,76.98769538,57.08677526
+Madagascar,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,99.61249558,56.3756412,29.80498463,15.46463377
+Malawi,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,41.64479739,23.33047852,15.6587724,10.63677026
+Malaysia,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,148.2374508,76.87709953,46.01879795,35.85797161
+Mali,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,29.25372169,13.67665146,5.528429804,3.190664608
+Malta,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,1.151555145,1.319264263,3.626303137,4.396322013
+Mauritania,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,0.658234787,1.307679632,1.367404896,1.237020626
+Mexico,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,OECD,0,62.15880213,38.39664362,27.4510675,22.55792018
+Morocco,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,8.65743484,5.121955514,3.150882694,2.885192789
+Mozambique,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,100.0747097,29.80302373,19.15124407,7.614454965
+Myanmar,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,0,0,Eastern Asia and South-eastern Asia,41.903668,37.02346479,31.51747447,29.1652599
+Namibia,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,15.87408954,10.01076786,13.13645285,12.16523374
+Nepal,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,ldc,llc,0,Central Asia and Southern Asia,0,18.38486433,13.4203653,11.86078303,17.90685359
+Netherlands,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,49.3281022,40.01715798,37.03313098,40.39724431
+New Zealand,Oceania,Australia and New Zealand,Asia and the Pacific,nation,0,dd,0,0,0,OECD,0,166.919839,133.0371183,110.6450605,92.07767805
+Nicaragua,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,16.98543413,15.59292436,18.39491708,20.89232459
+Niger,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,10.36724153,9.128142124,4.037741327,3.90432353
+Nigeria,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,189.5018853,140.6280031,67.14003574,43.36804102
+Northern America and Europe,0,0,0,0,0,0,0,0,0,0,0,113.1963184,97.69172958,84.94712184,81.43686982
+Oman,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,34.95770347,18.7499267,15.34320401,8.736540782
+Pakistan,Asia,Southern Asia,Asia and the Pacific,nation,dl,0,0,0,0,Central Asia and Southern Asia,0,24.86978617,14.79038406,8.454997372,7.150710291
+Panama,Americas,Latin America and the Caribbean,Central America,nation,dl,0,0,0,0,0,0,146.000158,61.12997921,48.70181095,24.36218048
+Paraguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,llc,0,0,0,244.6835191,137.279999,110.6693853,96.38558422
+Peru,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,65.22717726,43.85805037,29.24418097,21.59049076
+Philippines,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,49.94935164,38.63238578,29.05288562,23.83144538
+Poland,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,46.20842004,50.91496391,55.32941482,59.58231824
+Portugal,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,79.00007549,89.73405303,82.16063716,88.77444117
+Qatar,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,14.74871494,11.13507145,5.597804175,8.865793528
+Republic of Korea,Asia,Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,OECD,Eastern Asia and South-eastern Asia,40.47904252,37.89771608,42.28376452,54.94710459
+"Moldova, Republic of",Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,llc,0,0,Europe and Central Asia,23.73417576,25.42710167,31.10642512,38.69783544
+Russian Federation,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,59.830793,50.80515512,50.18820272,31.59392593
+San Marino,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,39.61814628,36.83559175,43.20402353,68.96831724
+Saudi Arabia,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,17.90924675,14.54132462,9.00780692,10.49398846
+Senegal,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,25.74944282,22.86627509,16.59681152,7.636678824
+Serbia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,21.81756688,21.3005398,25.39103781,29.7907515
+Sierra Leone,Africa,Western Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,213.5608968,118.1942402,58.40576825,14.88522211
+Slovakia,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,30.0288423,42.02389963,60.46919667,69.40203931
+Slovenia,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,63.61212266,57.17627926,52.05475252,44.90691848
+South Africa,Africa,Southern Africa,Sub-Saharan Africa,nation,dl,0,0,0,0,0,0,46.32208033,34.2131832,30.06221835,29.33224328
+Spain,Europe,Southern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,19.29881539,18.49032016,16.12696417,17.35125304
+Occupied Palestinian Territory,Asia,Western Asia,Western Asia and Northern Africa,0,dl,0,0,0,0,0,0,6.405720993,4.109874879,3.481272615,2.453494688
+Sub-Saharan Africa,Africa,0,Sub-Saharan Africa,0,0,0,0,0,0,0,0,62.12383265,35.64123305,23.09160254,14.43038465
+Sudan,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,7.490292969,5.33255689,4.127886927,3.607704847
+Sweden,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,81.48785885,73.82812094,68.74501846,60.74727629
+Switzerland,Europe,Western Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,37.18923573,40.20936905,40.84293648,39.85276255
+Syrian Arab Republic,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,10.01212805,5.393380063,3.264210559,3.240650006
+Tajikistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,104.7848615,72.64416436,50.25061611,35.61107866
+Thailand,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,165.5401154,115.5499653,51.10969505,27.99194543
+Timor-Leste,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,ldc,0,sid,0,Eastern Asia and South-eastern Asia,34.13460058,28.52174752,15.69426296,7.965375487
+Tunisia,Africa,Northern Africa,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,28.35322693,20.07048549,14.61527947,13.4269692
+Turkiye,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,OECD,0,27.0691292,16.69823333,13.12906756,9.86802768
+Turkmenistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,27.6850136,10.33337248,18.44428766,13.82747994
+Uganda,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,208.5314599,222.3958591,209.690802,168.4720087
+Ukraine,Europe,Eastern Europe,Northern America and Europe,nation,0,dd,0,0,0,0,Europe and Central Asia,39.45432031,40.58879655,28.76129079,32.068841
+United Arab Emirates,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,0,0,0,0,0,28.56559712,24.13375628,9.033760148,18.41784641
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,Northern America and Europe,nation,0,dd,0,0,0,OECD,Europe and Central Asia,74.87499283,76.88074188,77.78991952,74.6787463
+United Republic of Tanzania,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,0,0,0,0,310.9372082,159.3267768,85.53271017,74.1152072
+United States of America,Americas,Northern America,Northern America and Europe,nation,0,dd,0,0,0,OECD,0,282.9749114,229.8867127,191.3726313,174.7842428
+Uruguay,Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,173.9392497,124.3748259,89.87936287,73.88494112
+Uzbekistan,Asia,Central Asia,0,nation,dl,0,0,llc,0,Central Asia and Southern Asia,Europe and Central Asia,65.49557419,38.45565404,32.9809063,24.03151477
+Venezuela (Bolivarian Republic of),Americas,Latin America and the Caribbean,South America,nation,dl,0,0,0,0,0,0,20.97512894,12.88381842,10.44757719,8.862129052
+Viet Nam,Asia,South-Eastern Asia,Asia and the Pacific,nation,dl,0,0,0,0,0,Eastern Asia and South-eastern Asia,83.5392284,72.58855985,46.65658059,35.39719386
+Western Asia?and Northern Africa,0,0,0,0,0,0,0,0,0,0,0,16.52534983,11.43674794,7.58293667,6.433844478
+Yemen,Asia,Western Asia,Western Asia and Northern Africa,nation,dl,0,ldc,0,0,0,0,3.426873063,2.699806257,1.444386908,1.250537701
+Zambia,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,ldc,llc,0,0,0,19.04544305,13.75018593,10.44559089,5.132840398
+Zimbabwe,Africa,Eastern Africa,Sub-Saharan Africa,nation,dl,0,0,llc,0,0,0,4.754048837,5.36552293,8.52820986,12.78230232
