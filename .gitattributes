@@ -1,0 +1,24 @@
+# Normalize line endings (CRLF -> LF on commit)
+* text=auto
+
+# Explicit text types
+*.R    text
+*.md   text
+*.csv  text
+*.txt  text
+*.json text
+*.cff  text
+*.yml  text
+*.yaml text
+
+# Binary data and figures
+*.rds  binary
+*.xlsx binary
+*.xls  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.tif  binary
+*.tiff binary
+*.pdf  binary
+*.zip  binary

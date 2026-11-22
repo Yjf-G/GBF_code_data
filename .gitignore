@@ -1,0 +1,22 @@
+# --- R session files ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# --- OS junk ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Office temp files ---
+~$*
+
+# --- Zenodo deposit archive (built locally, uploaded to Zenodo; keeping it
+#     out of git avoids duplicating the whole repository in the history) ---
+GBF_code_data_*.zip
+
+# NOTE: data/intermediate/, data/output/ and data/figures/ are committed on
+# purpose (see README.md), so that the figures and tables can be rebuilt
+# without repeating the 10,000-fold bootstrap. Do not add them here.

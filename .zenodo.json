@@ -1,0 +1,33 @@
+{
+  "title": "Code and data for: Urgent and balanced action needed to achieve global biodiversity framework",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "description": "<p>Complete analysis code and all data needed to reproduce the results of the manuscript <em>Urgent and balanced action needed to achieve global biodiversity framework</em>, which quantifies national progress towards the 23 targets and 4 goals of the Kunming-Montreal Global Biodiversity Framework (GBF).</p><p>The repository contains the computation pipeline (indicator harmonization and imputation, normalization, target and goal aggregation, the Mean and Evenness Index Scores, synergy and country contributions, projected growth rates, achievement rates and the four-class trajectory classification), the derived analyses behind the Supplementary Tables and Figures, the raw indicator data and metadata, the intermediate checkpoints, and the figure and table source data.</p><p>All paths in the scripts are relative to the repository root; <strong>RUN_GUIDE.md</strong> describes the exact run order and the conventions of every input file. The code is written in R (developed with R 4.5.3) and requires <code>tidyverse</code>, <code>readxl</code>, <code>ggplot2</code>, <code>scales</code>, <code>patchwork</code>, <code>sf</code>, <code>rnaturalearth</code> and <code>ggrepel</code> (optionally <code>dlm</code>, <code>forecast</code> and <code>ragg</code>).</p>",
+  "keywords": [
+    "Kunming-Montreal Global Biodiversity Framework",
+    "GBF",
+    "biodiversity",
+    "conservation targets",
+    "indicators",
+    "achievement rate",
+    "projection",
+    "reproducibility"
+  ],
+  "creators": [
+    { "name": "Yi, Jianfeng", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Gregory, Richard D.", "affiliation": "RSPB Centre for Conservation Science, The Lodge, Sandy, Bedfordshire, UK; Centre for Biodiversity and Environment Research, Department of Genetics, Evolution and Environment, University College London, London, UK" },
+    { "name": "Cao, Mingchang", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Cao, Yun", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Dubois, Grégoire", "affiliation": "European Commission, Joint Research Centre (JRC), Ispra, Italy" },
+    { "name": "Gonzalez, Andrew", "affiliation": "Department of Biology, McGill University, Montreal, Quebec, Canada" },
+    { "name": "Lin, Hongmei", "affiliation": "School of Statistics and Information, Shanghai University of International Business and Economics, Shanghai, China" },
+    { "name": "Liu, Wei", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Delli, Giacomo", "affiliation": "Arcadia Sistemi Informativi Territoriali s.r.l., Vigevano, PV, Italy" },
+    { "name": "Wu, Jianyong", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Zhang, Riquan", "affiliation": "School of Statistics and Information, Shanghai University of International Business and Economics, Shanghai, China" },
+    { "name": "Yu, Dandan", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" },
+    { "name": "Xu, Haigen", "affiliation": "Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China" }
+  ]
+}

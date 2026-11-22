@@ -1,0 +1,74 @@
+# This CITATION.cff file was generated for the Zenodo deposit of the
+# analysis code and data of the manuscript:
+#   "Urgent and balanced action needed to achieve global biodiversity framework"
+# After the deposit is published, add the Zenodo DOI to the "doi:" field below
+# and the manuscript DOI to "preferred-citation" (see ZENODO_UPLOAD.md).
+cff-version: 1.2.0
+message: "If you use this code and data, please cite this repository and the associated manuscript."
+type: software
+title: "Code and data for: Urgent and balanced action needed to achieve global biodiversity framework"
+version: 1.0.0
+license: MIT
+abstract: >-
+  Complete analysis code and all data needed to reproduce the results of the
+  manuscript "Urgent and balanced action needed to achieve global biodiversity
+  framework", which quantifies national progress towards the 23 targets and
+  4 goals of the Kunming-Montreal Global Biodiversity Framework (GBF). The
+  repository contains the computation pipeline (indicator harmonization and
+  imputation, normalization, target and goal aggregation, the Mean and Evenness
+  Index Scores, synergy and country contributions, projected growth rates,
+  achievement rates and the four-class trajectory classification), the derived
+  analyses behind the Supplementary Tables and Figures, the raw indicator data
+  and metadata, the intermediate checkpoints, and the figure and table source
+  data. All paths in the scripts are relative to the repository root;
+  RUN_GUIDE.md describes the exact run order and the conventions of every
+  input file. The code is written in R (developed with R 4.5.3).
+keywords:
+  - Kunming-Montreal Global Biodiversity Framework
+  - GBF
+  - biodiversity
+  - conservation targets
+  - indicators
+  - achievement rate
+  - projection
+  - reproducibility
+authors:
+  - family-names: Yi
+    given-names: Jianfeng
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Gregory
+    given-names: Richard D.
+    affiliation: RSPB Centre for Conservation Science, The Lodge, Sandy, Bedfordshire, UK; Centre for Biodiversity and Environment Research, Department of Genetics, Evolution and Environment, University College London, London, UK
+  - family-names: Cao
+    given-names: Mingchang
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Cao
+    given-names: Yun
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Dubois
+    given-names: Grégoire
+    affiliation: European Commission, Joint Research Centre (JRC), Ispra, Italy
+  - family-names: Gonzalez
+    given-names: Andrew
+    affiliation: Department of Biology, McGill University, Montreal, Quebec, Canada
+  - family-names: Lin
+    given-names: Hongmei
+    affiliation: School of Statistics and Information, Shanghai University of International Business and Economics, Shanghai, China
+  - family-names: Liu
+    given-names: Wei
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Delli
+    given-names: Giacomo
+    affiliation: Arcadia Sistemi Informativi Territoriali s.r.l., Vigevano, PV, Italy
+  - family-names: Wu
+    given-names: Jianyong
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Zhang
+    given-names: Riquan
+    affiliation: School of Statistics and Information, Shanghai University of International Business and Economics, Shanghai, China
+  - family-names: Yu
+    given-names: Dandan
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
+  - family-names: Xu
+    given-names: Haigen
+    affiliation: Nanjing Institute of Environmental Sciences, Ministry of Ecology and Environment of China, Nanjing, China
