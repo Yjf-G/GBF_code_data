@@ -76,7 +76,11 @@ Fifty-three candidate indicators (44 used) are harmonized per country and year, 
 
 ## Citation
 
-Please cite the manuscript associated with this repository. The bibliographic details (authors, title, journal, DOI) are to be added here at the time of publication.
+Please cite the archived code and data:
+
+> Yi, J., Gregory, R. D., Cao, M., Cao, Y., Dubois, G., Gonzalez, A., Lin, H., Liu, W., Delli, G., Wu, J., Zhang, R., Yu, D. & Xu, H. Code and data for: Urgent and balanced action needed to achieve global biodiversity framework. Zenodo https://doi.org/10.5281/zenodo.24430436 (2026).
+
+The bibliographic details of the associated manuscript (authors, title, journal, DOI) are to be added here at the time of publication.
 
 ## Data sources
 

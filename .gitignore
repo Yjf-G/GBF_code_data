@@ -14,7 +14,8 @@ desktop.ini
 ~$*
 
 # --- Zenodo deposit archive (built locally, uploaded to Zenodo; keeping it
-#     out of git avoids duplicating the whole repository in the history) ---
+#     out of git avoids duplicating the whole repository in the history).
+#     The upload.7z* split volumes ARE tracked in git on purpose. ---
 GBF_code_data_*.zip
 
 # NOTE: data/intermediate/, data/output/ and data/figures/ are committed on

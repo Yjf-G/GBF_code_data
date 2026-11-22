@@ -33,7 +33,7 @@ with zipfile.ZipFile(OUT,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
     for dp,dn,fns in os.walk(SRC):
         dn.sort()
         for fn in sorted(fns):
-            if fn==OUT: continue
+            if fn==OUT or fn.startswith('upload.7z'): continue
             p=os.path.join(dp,fn)
             z.write(p, WRAP+os.path.relpath(p,SRC).replace(os.sep,'/'))
 "

@@ -1,13 +1,16 @@
 # This CITATION.cff file was generated for the Zenodo deposit of the
 # analysis code and data of the manuscript:
 #   "Urgent and balanced action needed to achieve global biodiversity framework"
-# After the deposit is published, add the Zenodo DOI to the "doi:" field below
-# and the manuscript DOI to "preferred-citation" (see ZENODO_UPLOAD.md).
+# Zenodo record (version DOI, cite this one): https://doi.org/10.5281/zenodo.24430436
+# After the manuscript is published, add its DOI to "preferred-citation"
+# (see ZENODO_UPLOAD.md).
 cff-version: 1.2.0
 message: "If you use this code and data, please cite this repository and the associated manuscript."
 type: software
 title: "Code and data for: Urgent and balanced action needed to achieve global biodiversity framework"
 version: 1.0.0
+doi: 10.5281/zenodo.24430436
+repository-code: "https://github.com/Yjf-G/GBF_code_data"
 license: MIT
 abstract: >-
   Complete analysis code and all data needed to reproduce the results of the
