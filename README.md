@@ -50,6 +50,7 @@ The exact run order, the dependencies and the conventions of every input file ar
 | `fig_code/` | Builds the figure source data and renders the main, Extended Data and Supplementary figures (see [fig_code/README.md](fig_code/README.md)) |
 | `table_code/` | Regenerates the source data of the Supplementary Tables (see [table_code/README.md](table_code/README.md)) |
 | `data/` | The raw indicator data, the metadata, the intermediate products and the source data of every figure and table (see [data/README.md](data/README.md)) |
+| `upload.7z.001`–`.003` | Split 7z archive of the whole repository — a single-download alternative to `git clone` (open `upload.7z.001` with 7-Zip to extract everything) |
 
 ---
 
